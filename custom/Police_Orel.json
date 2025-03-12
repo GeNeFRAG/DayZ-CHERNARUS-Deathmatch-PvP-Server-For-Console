@@ -277,6 +277,18 @@
                 "quantityMin": 1.0,
                 "quantityMax": 1.0
             },
+            "complexChildrenTypes": [
+                {
+                    "itemType": "BandageDressing",
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": 0
+                }
+            ],
             "simpleChildrenTypes": [
                 "Mag_AK74_30Rnd_Black",
                 "Mag_AK74_30Rnd_Black",
