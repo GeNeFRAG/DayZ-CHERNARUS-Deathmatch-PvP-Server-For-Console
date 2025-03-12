@@ -1,0 +1,12 @@
+{
+    "deploy_directory": "",
+    "remote_base_path": "/gameservers/file_server",
+    "restart_after_deploy": false,
+    "remote_dirs": [
+        "custom",
+        "db",
+        "env"
+    ],
+    "ssl_verify": true,
+    "upload" : true
+}
