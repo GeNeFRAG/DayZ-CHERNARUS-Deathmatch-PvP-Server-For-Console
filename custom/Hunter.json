@@ -75,6 +75,12 @@
                         "quantityMin": 1.0,
                         "quantityMax": 1.0
                     },
+                    "simpleChildrenTypes": [
+                        "RGD5Grenade",
+                        "RGD5Grenade",
+                        "RGD5Grenade",
+                        "RDG2SmokeGrenade_White"
+                    ],
                     "complexChildrenTypes": [
                         {
                             "itemType": "PlateCarrierPouches",
@@ -276,7 +282,9 @@
                         "BakedBeansCan_Opened",
                         "BakedBeansCan_Opened",
                         "SodaCan_Fronta",
-                        "SodaCan_Fronta"
+                        "SodaCan_Fronta",
+                        "ImprovisedSuppressor",
+                        "ImprovisedSuppressor"
                     ],
                     "simpleChildrenUseDefaultAttributes": false,
                     "complexChildrenTypes": [
@@ -357,9 +365,7 @@
                 "Battery9V",
                 "Battery9V",
                 "AK_Suppressor",
-                "AK_Suppressor",
-                "ImprovisedSuppressor",
-                "ImprovisedSuppressor"
+                "AK_Suppressor"
             ],
             "simpleChildrenUseDefaultAttributes": false
         }
