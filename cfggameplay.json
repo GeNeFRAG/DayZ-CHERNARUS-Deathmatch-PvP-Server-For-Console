@@ -36,8 +36,8 @@
         },
 		"ShockHandlingData":
 		{
-			"shockRefillSpeedConscious": 5.0,
-			"shockRefillSpeedUnconscious": 1.0,
+			"shockRefillSpeedConscious": 7.5,
+			"shockRefillSpeedUnconscious": 5.0,
 			"allowRefillSpeedModifier": true
 		},
 		"MovementData":
