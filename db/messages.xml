@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <messages>
     <message>
-        <deadline>130</deadline>
+        <deadline>125</deadline>
         <shutdown>1</shutdown>
-        <text>Server restart soon!</text>
+        <text>Server will shutdown in #tmin minutes.</text>
     </message>
     <message>
         <delay>1</delay>
