@@ -15,28 +15,6 @@ jobs:
         with:
           clean: true
           fetch-depth: 1
-    
-      - name: Find changed files
-        run: |
-          git diff --name-only HEAD~1 HEAD
-
-      - name: List recent changes
-        run: |
-          echo "Recent commits:"
-          git log -n 3 --oneline
-          echo "Files changed in last commit:"
-          git diff-tree --no-commit-id --name-only -r HEAD
-
-      - name: List PR changes
-        if: github.event_name == 'pull_request'
-        run: |
-          git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }}
-
-      - name: Track all file changes
-        run: |
-          git ls-files | while read file; do
-          echo "$file: $(git log -1 --format="%ad" -- "$file")"
-          done
 
       - name: Set up Python
         uses: actions/setup-python@v4
