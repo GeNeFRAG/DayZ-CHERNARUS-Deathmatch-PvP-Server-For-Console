@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
     <type name="AliceBag_Black">
-        <nominal>15</nominal>
+        <nominal>12</nominal>
         <lifetime>300</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12,10 +12,10 @@
         <usage name="DeathMatch" />
     </type>
     <type name="AliceBag_Camo">
-        <nominal>15</nominal>
+        <nominal>12</nominal>
         <lifetime>300</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -23,10 +23,10 @@
         <usage name="DeathMatch" />
     </type>
     <type name="AliceBag_Green">
-        <nominal>15</nominal>
+        <nominal>12</nominal>
         <lifetime>300</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -56,10 +56,10 @@
         <usage name="DeathMatch" />
     </type>
     <type name="DryBag_Black">
-        <nominal>15</nominal>
+        <nominal>12</nominal>
         <lifetime>300</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -67,10 +67,10 @@
         <usage name="DeathMatch" />
     </type>
     <type name="DryBag_Green">
-        <nominal>15</nominal>
+        <nominal>12</nominal>
         <lifetime>300</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -111,10 +111,10 @@
         <usage name="DeathMatch" />
     </type>
     <type name="MountainBag_Blue">
-        <nominal>15</nominal>
+        <nominal>12</nominal>
         <lifetime>300</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -122,10 +122,10 @@
         <usage name="DeathMatch" />
     </type>
     <type name="MountainBag_Orange">
-        <nominal>15</nominal>
+        <nominal>12</nominal>
         <lifetime>300</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -133,10 +133,10 @@
         <usage name="DeathMatch" />
     </type>
     <type name="MountainBag_Red">
-        <nominal>15</nominal>
+        <nominal>12</nominal>
         <lifetime>300</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -265,10 +265,10 @@
         <usage name="DeathMatch" />
     </type>
     <type name="TortillaBag">
-        <nominal>15</nominal>
+        <nominal>12</nominal>
         <lifetime>300</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -276,10 +276,10 @@
         <usage name="DeathMatch" />
     </type>
     <type name="TortillaBag_Winter">
-        <nominal>15</nominal>
+        <nominal>12</nominal>
         <lifetime>300</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -287,10 +287,10 @@
         <usage name="DeathMatch" />
     </type>
     <type name="WaterproofBag_Green">
-        <nominal>15</nominal>
+        <nominal>12</nominal>
         <lifetime>300</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -298,10 +298,10 @@
         <usage name="DeathMatch" />
     </type>
     <type name="WaterproofBag_Orange">
-        <nominal>15</nominal>
+        <nominal>12</nominal>
         <lifetime>300</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -309,10 +309,10 @@
         <usage name="DeathMatch" />
     </type>
     <type name="WaterproofBag_Yellow">
-        <nominal>15</nominal>
+        <nominal>12</nominal>
         <lifetime>300</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
