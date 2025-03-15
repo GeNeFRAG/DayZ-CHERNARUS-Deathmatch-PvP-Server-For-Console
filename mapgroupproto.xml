@@ -22,6 +22,7 @@
     </container>
   </group>
   <group name="Land_Shed_M3" lootmax="5">
+
     <usage name="DeathMatch" />
     <container name="lootFloor" lootmax="5">
       <tag name="ground" />
@@ -105,6 +106,7 @@
     </container>
   </group>
   <group name="Land_Shed_W6">
+
     <usage name="DeathMatch" />
     <container name="lootFloor" lootmax="7">
       <tag name="ground" />
@@ -119,6 +121,7 @@
     </container>
   </group>
   <group name="Land_Shed_Closed">
+
     <usage name="DeathMatch" />
     <container name="lootFloor">
       <tag name="ground" />
@@ -3189,6 +3192,7 @@
     </container>
   </group>
   <group name="Land_Workshop2" lootmax="4">
+
     <usage name="DeathMatch" />
     <container name="lootFloor">
       <tag name="ground" />
@@ -3240,6 +3244,7 @@
     </container>
   </group>
   <group name="Land_Workshop4">
+
     <usage name="DeathMatch" />
     <container name="lootFloor" lootmax="5">
       <tag name="ground" />
@@ -3267,8 +3272,9 @@
     </container>
   </group>
   <group name="Land_Workshop5" lootmax="3">
+
    
-    <container name="lootFloor" lootmax="3">
+    <usage name="DeathMatch" /><container name="lootFloor" lootmax="3">
       <tag name="ground" />
       <tag name="floor" />
       <point pos="2.289995 -1.224425 2.209702" range="0.627441" height="1.568602" />
@@ -3325,6 +3331,7 @@
     </container>
   </group>
   <group name="Land_Guardhouse" lootmax="9">
+
     <usage name="DeathMatch" />
     <container name="lootFloor" lootmax="4">
       <tag name="floor" />
@@ -3530,8 +3537,9 @@
     </container>
   </group>
   <group name="Land_Garage_Office">
+
    
-    <container name="lootFloor">
+    <usage name="DeathMatch" /><container name="lootFloor">
       <tag name="floor" />
       <point pos="6.034173 -3.205065 -1.447673" range="0.444824" height="1.096178" />
       <point pos="5.199451 -0.080173 2.637481" range="0.522949" height="1.307147" />
@@ -4547,7 +4555,8 @@
       <point pos="1.843132 2.304058 0.081311" range="0.478125" height="1.195313" />
     </container>
   </group>
-  <group name="Land_Power_Station" lootmax="7">
+  <group name="Land_Power_Station" lootmax="10">
+
     <usage name="DeathMatch" />
     <container name="lootFloor" lootmax="7">
       <tag name="ground" />
@@ -4606,6 +4615,7 @@
     </container>
   </group>
   <group name="Land_Smokestack_Brick">
+
     <usage name="DeathMatch" />
     <container name="lootFloor">
       <tag name="floor" />
@@ -4972,9 +4982,10 @@
       <point pos="3.711096 -0.731201 -2.212100" range="0.478125" height="1.195313" />
     </container>
   </group>
-  <group name="Land_Mil_Barracks2" lootmax="10">
+  <group name="Land_Mil_Barracks2" lootmax="24">
+
    
-    <container name="lootFloor" lootmax="8">
+    <usage name="DeathMatch" /><container name="lootFloor" lootmax="8">
       <tag name="floor" />
       <point pos="-1.251345 -1.098541 5.743109" range="0.252197" height="0.630493" />
       <point pos="-1.483850 -1.098541 4.298643" range="0.400978" height="1.002441" />
@@ -5114,9 +5125,10 @@
       <point pos="3.583312 -1.875916 -5.624228" range="0.481934" height="1.204834" />
     </container>
   </group>
-  <group name="Land_Mil_Barracks4" lootmax="8">
+  <group name="Land_Mil_Barracks4" lootmax="15">
+
    
-    <container name="lootFloor" lootmax="5">
+    <usage name="DeathMatch" /><container name="lootFloor" lootmax="5">
       <tag name="floor" />
       <point pos="-2.389683 -1.465946 -3.167737" range="0.599707" height="1.499268" />
       <point pos="-2.596588 -1.465946 1.887695" range="0.666504" height="1.666260" />
@@ -5145,9 +5157,10 @@
       <point pos="-2.029328 -1.465946 4.138081" range="1.200000" height="2.000004" />
     </container>
   </group>
-  <group name="Land_Mil_Barracks5" lootmax="8">
+  <group name="Land_Mil_Barracks5" lootmax="18">
+
    
-    <container name="lootFloor" lootmax="6">
+    <usage name="DeathMatch" /><container name="lootFloor" lootmax="6">
       <tag name="floor" />
       <point pos="0.104305 -5.003021 6.747262" range="0.729492" height="1.823730" />
       <point pos="-3.630584 -0.933044 1.106506" range="0.752930" height="1.882324" />
@@ -7180,6 +7193,7 @@
     </container>
   </group>
   <group name="Land_Mil_Guardhouse1" lootmax="20">
+
     <usage name="DeathMatch" />
     <container name="lootFloor" lootmax="4">
       <tag name="floor" />
@@ -8798,8 +8812,9 @@
     </container>
   </group>
   <group name="Land_Prison_Main" lootmax="50">
+
    
-    <container name="lootFloor">
+    <usage name="DeathMatch" /><container name="lootFloor">
       <tag name="floor" />
       <point pos="7.679199 5.079140 6.900146" range="0.673975" height="1.710938" />
       <point pos="3.787599 5.083633 7.847412" range="1.167693" height="2.000000" />
@@ -9002,8 +9017,9 @@
     </container>
   </group>
   <group name="Land_Prison_Side" lootmax="30">
+
    
-    <container name="lootFloor" lootmax="15">
+    <usage name="DeathMatch" /><container name="lootFloor" lootmax="15">
       <tag name="floor" />
       <point pos="3.875488 -5.868248 2.643310" range="0.597900" height="1.494749" />
       <point pos="4.916993 -5.871872 -1.145508" range="0.749527" height="1.873817" />
@@ -9133,8 +9149,9 @@
     </container>
   </group>
   <group name="Land_Prison_Wall_Large" lootmax="8">
+
    
-    <container name="lootFloor">
+    <usage name="DeathMatch" /><container name="lootFloor">
       <tag name="floor" />
       <tag name="shelves" />
       <point pos="1.269047 0.954124 10.218261" range="0.815186" height="2.000000" />
@@ -9766,9 +9783,10 @@
       <point pos="-0.468879 -0.264908 -1.443295" range="1.003906" height="1.996796" />
     </container>
   </group>
-  <group name="Land_Boat_Small1" lootmax="3">
+  <group name="Land_Boat_Small1" lootmax="10">
+
    
-    <container name="lootFloor">
+    <usage name="DeathMatch" /><container name="lootFloor">
       <tag name="floor" />
       <tag name="shelves" />
       <point pos="-0.793789 -0.916977 0.463328" range="0.445801" height="0.541259" flags="32" />
@@ -9784,8 +9802,9 @@
     </container>
   </group>
   <group name="Land_Boat_Small2" lootmax="3">
+
    
-    <container name="lootFloor">
+    <usage name="DeathMatch" /><container name="lootFloor">
       <tag name="floor" />
       <tag name="shelves" />
       <point pos="0.255975 -0.372841 1.160202" range="0.168750" height="0.421875" flags="32" />
@@ -9798,9 +9817,10 @@
       <point pos="-1.092791 -0.373222 0.482803" range="0.504395" height="1.260986" flags="32" />
     </container>
   </group>
-  <group name="Land_Boat_Small3" lootmax="3">
+  <group name="Land_Boat_Small3" lootmax="7">
+
    
-    <container name="lootFloor">
+    <usage name="DeathMatch" /><container name="lootFloor">
       <tag name="floor" />
       <tag name="shelves" />
       <point pos="-0.405557 0.180870 0.257555" range="0.134375" height="0.335938" />
@@ -10378,8 +10398,9 @@
     </container>
   </group>
   <group name="Land_Container_1Mo" lootmax="1">
+
    
-    <container name="lootFloor" lootmax="1">
+    <usage name="DeathMatch" /><container name="lootFloor" lootmax="1">
       <tag name="floor" />
       <tag name="shelves" />
       <tag name="ground" />
