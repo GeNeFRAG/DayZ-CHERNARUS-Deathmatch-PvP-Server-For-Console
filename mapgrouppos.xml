@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <map>
+    <!-- MOD -->
+    <group name="Land_Mil_ControlTower_East" pos="2788.105957 33.395981 1175.721924" rpy="-0.000000 0.000000 134.999847" a="-44.9998"/>
+	<group name="StaticObj_Misc_StairBridge" pos="2776.192627 38.635880 1268.643555" rpy="-0.000000 0.000000 -51.480968" a="141.481"/>
+	<group name="Land_Mil_ControlTower_East" pos="2633.588867 29.987175 1327.586426" rpy="-0.000000 0.000000 -81.777306" a="171.777"/>
+	<group name="Land_Mil_ControlTower_East" pos="2820.721436 33.522511 1212.295532" rpy="-0.000000 0.000000 127.922226" a="-37.9222"/>
+	<group name="StaticObj_Misc_StairBridge" pos="2783.591309 38.635868 1262.755737" rpy="-0.000000 0.000000 -51.480968" a="141.481"/>
+	<group name="StaticObj_Misc_StairBridge" pos="2782.233643 38.591648 1263.859375" rpy="-0.000000 0.000000 129.724472" a="-39.7245"/>
+	<group name="Land_Castle_Stairs" pos="2776.772461 29.343773 1186.697144" rpy="-0.000000 0.000000 130.936401" a="-40.9364"/>
+	<group name="Land_Castle_Stairs" pos="2763.602539 29.419262 1181.929077" rpy="-0.000000 0.000000 37.189434" a="52.8106"/>
+	<group name="Land_Castle_Stairs" pos="2796.663086 29.382792 1188.564575" rpy="0.000000 0.000000 41.942261" a="48.0577"/>
+	<group name="Land_Castle_Stairs" pos="2801.201660 29.456772 1175.313110" rpy="-0.000000 0.000000 -51.805241" a="141.805"/>
+	<group name="Land_Mil_ATC_Small" pos="2778.466553 36.136257 1211.721802" rpy="-0.000000 0.000000 -138.165604" a="-131.834"/>
+	<group name="StaticObj_Bridge_Wood2" pos="2762.267334 31.182106 1224.652832" rpy="-0.000000 0.000000 132.020508" a="-42.0205"/>
+	<group name="StaticObj_Bridge_Wood2" pos="2747.434082 31.182104 1238.018311" rpy="-0.000000 0.000000 132.020508" a="-42.0205"/>
+	<group name="StaticObj_Bridge_Wood2" pos="2732.978027 31.269054 1251.044922" rpy="-0.000000 0.000000 132.020508" a="-42.0205"/>
+	<group name="StaticObj_Bridge_Wood2" pos="2734.648438 31.514090 1259.899414" rpy="-2.259847 1.962975 43.377083" a="46.6229"/>
+	<group name="StaticObj_Bridge_Wood2" pos="2742.217773 33.091270 1266.804321" rpy="-1.057823 9.525275 49.321754" a="40.6782"/>
+	<group name="StaticObj_Misc_StairBridge" pos="2758.835693 41.372929 1287.350098" rpy="-0.000000 0.000000 -151.678970" a="-118.321"/>
+	<group name="Land_Mil_ControlTower_East" pos="2725.562500 31.209999 1290.773804" rpy="-0.000000 0.000000 -171.310471" a="-98.6895"/>
+	<group name="Land_Castle_Stairs" pos="2756.064941 23.342651 1249.805176" rpy="-0.000000 0.000000 39.972248" a="50.0278"/>
+	<group name="StaticObj_Road_Sidewalk_Stairs" pos="2762.552979 32.583225 1235.880981" rpy="-0.000000 0.000000 41.152142" a="48.8479"/>
+	<group name="StaticObj_Misc_StairBridge" pos="2774.889648 38.591759 1269.754761" rpy="-0.000000 0.000000 129.724564" a="-39.7246"/>
+
     <!-- Buildings Prison Island -->
     <group name="Land_Workshop5" pos="2445.642578 5.233922 1368.121704" rpy="-0.000000 0.000000 109.835999" a="-19.836004" />
     <group name="Land_Workshop2" pos="2486.725830 5.272530 1218.125244" rpy="-0.000000 0.000000 -69.356544" a="159.356537" />

@@ -1,0 +1,340 @@
+{
+    "Objects": [
+        {
+            "name": "Land_Mil_ControlTower_East",
+            "pos": [
+                2788.10595703125,
+                33.39598083496094,
+                1175.721923828125
+            ],
+            "ypr": [
+                134.99984741210938,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_StairBridge",
+            "pos": [
+                2776.192626953125,
+                38.63587951660156,
+                1268.6435546875
+            ],
+            "ypr": [
+                -51.4809684753418,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999273419380188,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Mil_ControlTower_East",
+            "pos": [
+                2633.5888671875,
+                29.98717498779297,
+                1327.58642578125
+            ],
+            "ypr": [
+                -81.77730560302735,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999856948852539,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Mil_ControlTower_East",
+            "pos": [
+                2820.721435546875,
+                33.52251052856445,
+                1212.2955322265626
+            ],
+            "ypr": [
+                127.92222595214844,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999597668647766,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_StairBridge",
+            "pos": [
+                2783.59130859375,
+                38.635868072509769,
+                1262.7557373046876
+            ],
+            "ypr": [
+                -51.4809684753418,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999330043792725,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_StairBridge",
+            "pos": [
+                2782.233642578125,
+                38.59164810180664,
+                1263.859375
+            ],
+            "ypr": [
+                129.72447204589845,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Stairs",
+            "pos": [
+                2776.7724609375,
+                29.343772888183595,
+                1186.6971435546876
+            ],
+            "ypr": [
+                130.9364013671875,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999649524688721,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Stairs",
+            "pos": [
+                2763.6025390625,
+                29.419261932373048,
+                1181.9290771484376
+            ],
+            "ypr": [
+                37.18943405151367,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Stairs",
+            "pos": [
+                2796.6630859375,
+                29.38279151916504,
+                1188.5645751953126
+            ],
+            "ypr": [
+                41.9422607421875,
+                0.0,
+                4.682693469093557e-12
+            ],
+            "scale": 0.9997780919075012,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Stairs",
+            "pos": [
+                2801.20166015625,
+                29.456771850585939,
+                1175.3131103515626
+            ],
+            "ypr": [
+                -51.805240631103519,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999986469745636,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Mil_ATC_Small",
+            "pos": [
+                2778.466552734375,
+                36.13625717163086,
+                1211.7218017578126
+            ],
+            "ypr": [
+                -138.1656036376953,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Bridge_Wood2",
+            "pos": [
+                2762.267333984375,
+                31.182106018066408,
+                1224.65283203125
+            ],
+            "ypr": [
+                132.0205078125,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Bridge_Wood2",
+            "pos": [
+                2747.43408203125,
+                31.182104110717775,
+                1238.018310546875
+            ],
+            "ypr": [
+                132.0205078125,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Bridge_Wood2",
+            "pos": [
+                2732.97802734375,
+                31.269054412841798,
+                1251.044921875
+            ],
+            "ypr": [
+                132.0205078125,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999993443489075,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Bridge_Wood2",
+            "pos": [
+                2734.6484375,
+                31.514089584350587,
+                1259.8994140625
+            ],
+            "ypr": [
+                43.37708282470703,
+                1.9629753828048707,
+                -2.259847402572632
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Bridge_Wood2",
+            "pos": [
+                2742.2177734375,
+                33.091270446777347,
+                1266.8043212890626
+            ],
+            "ypr": [
+                49.321754455566409,
+                9.525275230407715,
+                -1.057822823524475
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_StairBridge",
+            "pos": [
+                2758.835693359375,
+                41.372928619384769,
+                1287.35009765625
+            ],
+            "ypr": [
+                -151.67897033691407,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999983906745911,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Mil_ControlTower_East",
+            "pos": [
+                2725.5625,
+                31.209999084472658,
+                1290.7738037109376
+            ],
+            "ypr": [
+                -171.3104705810547,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Stairs",
+            "pos": [
+                2756.06494140625,
+                23.3426513671875,
+                1249.80517578125
+            ],
+            "ypr": [
+                39.97224807739258,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997019767761,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Road_Sidewalk_Stairs",
+            "pos": [
+                2762.552978515625,
+                32.58322525024414,
+                1235.8809814453126
+            ],
+            "ypr": [
+                41.15214157104492,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_StairBridge",
+            "pos": [
+                2774.8896484375,
+                38.591758728027347,
+                1269.7547607421876
+            ],
+            "ypr": [
+                129.7245635986328,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999284148216248,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}
