@@ -17,10 +17,10 @@
                     },
                     "quickBarSlot": 1,
                     "simpleChildrenTypes": [
-                        "AK_Suppressor",
                         "AK_PlasticBttstck_Black",
                         "AK_PlasticHndgrd",
-                        "Mag_AK74_30Rnd_Black"
+                        "Mag_AK74_30Rnd_Black",
+                        "AK_Suppressor"
                     ],
                     "simpleChildrenUseDefaultAttributes": false
                 }
