@@ -17,9 +17,77 @@
                     },
                     "quickBarSlot": 1,
                     "simpleChildrenTypes": [
-                        "Mag_AK74_45Rnd",
+                        "Mag_AK74_30Rnd",
                         "AK74_WoodBttstck",
                         "AK74_Hndgrd",
+                        "AK_Suppressor"
+                    ],
+                    "complexChildrenTypes": [
+                        {
+                            "itemType": "KobraOptic",
+                            "attributes": {
+                                "healthMin": 1.0,
+                                "healthMax": 1.0,
+                                "quantityMin": 1.0,
+                                "quantityMax": 1.0
+                            },
+                            "quickBarSlot": -1,
+                            "simpleChildrenTypes": [
+                                "Battery9V"
+                            ],
+            
+                            "simpleChildrenUseDefaultAttributes": false
+                        }
+                    ]
+                },
+                {
+                    "itemType": "AK74_Green",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": 1,
+                    "simpleChildrenTypes": [
+                        "Mag_AK74_30Rnd_Green",
+                        "AK_PlasticBttstck_Green",
+                        "AK_RailHndgrd_Green",
+                        "AK_Suppressor"
+                    ],
+                    "complexChildrenTypes": [
+                        {
+                            "itemType": "KobraOptic",
+                            "attributes": {
+                                "healthMin": 1.0,
+                                "healthMax": 1.0,
+                                "quantityMin": 1.0,
+                                "quantityMax": 1.0
+                            },
+                            "quickBarSlot": -1,
+                            "simpleChildrenTypes": [
+                                "Battery9V"
+                            ],
+            
+                            "simpleChildrenUseDefaultAttributes": false
+                        }
+                    ]
+                },
+                {
+                    "itemType": "AK74_Black",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": 1,
+                    "simpleChildrenTypes": [
+                        "Mag_AK74_30Rnd_Black",
+                        "AK_PlasticBttstck_Black",
+                        "AK_RailHndgrd_Black",
                         "AK_Suppressor"
                     ],
                     "complexChildrenTypes": [
@@ -47,6 +115,38 @@
             "discreteItemSets": [
                 {
                     "itemType": "Mosin9130_Black",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": 2,
+                    "simpleChildrenTypes": [
+                        "PUScopeOptic",
+                        "ImprovisedSuppressor"
+                    ],
+                    "simpleChildrenUseDefaultAttributes": false
+                },
+                {
+                    "itemType": "Mosin9130_Black",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": 2,
+                    "simpleChildrenTypes": [
+                        "PUScopeOptic",
+                        "ImprovisedSuppressor"
+                    ],
+                    "simpleChildrenUseDefaultAttributes": false
+                },
+                {
+                    "itemType": "Mosin9130_Camo",
                     "spawnWeight": 1,
                     "attributes": {
                         "healthMin": 1.0,

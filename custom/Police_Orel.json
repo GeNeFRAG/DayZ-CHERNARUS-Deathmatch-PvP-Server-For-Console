@@ -7,6 +7,40 @@
             "slotName": "Hands",
             "discreteItemSets": [
                 {
+                    "itemType": "AK74_Green",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": 1,
+                    "simpleChildrenTypes": [
+                        "Mag_AK74_30Rnd_Green",
+                        "AK_PlasticBttstck_Green",
+                        "AK_RailHndgrd_Green",
+                        "AK_Suppressor"
+                    ],
+                    "complexChildrenTypes": [
+                        {
+                            "itemType": "KobraOptic",
+                            "attributes": {
+                                "healthMin": 1.0,
+                                "healthMax": 1.0,
+                                "quantityMin": 1.0,
+                                "quantityMax": 1.0
+                            },
+                            "quickBarSlot": -1,
+                            "simpleChildrenTypes": [
+                                "Battery9V"
+                            ],
+            
+                            "simpleChildrenUseDefaultAttributes": false
+                        }
+                    ]
+                },
+                {
                     "itemType": "AK74_Black",
                     "spawnWeight": 1,
                     "attributes": {
@@ -17,12 +51,28 @@
                     },
                     "quickBarSlot": 1,
                     "simpleChildrenTypes": [
-                        "AK_PlasticBttstck_Black",
-                        "AK_PlasticHndgrd",
                         "Mag_AK74_30Rnd_Black",
+                        "AK_PlasticBttstck_Black",
+                        "AK_RailHndgrd_Black",
                         "AK_Suppressor"
                     ],
-                    "simpleChildrenUseDefaultAttributes": false
+                    "complexChildrenTypes": [
+                        {
+                            "itemType": "KobraOptic",
+                            "attributes": {
+                                "healthMin": 1.0,
+                                "healthMax": 1.0,
+                                "quantityMin": 1.0,
+                                "quantityMax": 1.0
+                            },
+                            "quickBarSlot": -1,
+                            "simpleChildrenTypes": [
+                                "Battery9V"
+                            ],
+            
+                            "simpleChildrenUseDefaultAttributes": false
+                        }
+                    ]
                 }
             ]
         },
@@ -40,7 +90,8 @@
                     },
                     "quickBarSlot": 2,
                     "simpleChildrenTypes": [
-                        "Mag_SSG82_5rnd"
+                        "Mag_SSG82_5rnd",
+                        "ImprovisedSuppressor"
                     ],
                     "simpleChildrenUseDefaultAttributes": false
                 }
@@ -291,8 +342,8 @@
             ],
             "simpleChildrenTypes": [
                 "Mag_AK74_30Rnd_Black",
-                "Mag_AK74_30Rnd_Black",
-                "Mag_AK74_30Rnd_Black",
+                "Mag_AK74_30Rnd_Green",
+                "Mag_AK74_30Rnd",
                 "Mag_SSG82_5rnd",
                 "Mag_SSG82_5rnd",
                 "Mag_SSG82_5rnd",
@@ -304,9 +355,6 @@
                 "BandageDressing",
                 "Morphine",
                 "SalineBagIV",
-                "Mag_CZ75_15Rnd",
-                "Mag_CZ75_15Rnd",
-                "Mag_CZ75_15Rnd",
                 "Battery9V",
                 "Battery9V",
                 "AK_Suppressor",

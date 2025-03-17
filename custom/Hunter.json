@@ -38,6 +38,39 @@
                             "simpleChildrenUseDefaultAttributes": false
                         }
                     ]
+                },
+                {
+                    "itemType": "AK101_Green",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": 1,
+                    "simpleChildrenTypes": [
+                        "Mag_AK101_30Rnd_Green",
+                        "AK_PlasticBttstck_Green",
+                        "AK_RailHndgrd_Green",
+                        "AK_Suppressor"
+                    ],
+                    "simpleChildrenUseDefaultAttributes": false,
+                    "complexChildrenTypes": [
+                        {
+                            "itemType": "KobraOptic",
+                            "attributes": {
+                                "healthMin": 1.0,
+                                "healthMax": 1.0,
+                                "quantityMin": 1.0,
+                                "quantityMax": 1.0
+                            },
+                            "simpleChildrenTypes": [
+                                "Battery9V"
+                            ],
+                            "simpleChildrenUseDefaultAttributes": false
+                        }
+                    ]
                 }
             ]
         },
@@ -57,6 +90,21 @@
                     "simpleChildrenTypes": [
                         "ACOGOptic_6x",
                         "Ammo_HuntingBolt"
+                    ],
+                    "simpleChildrenUseDefaultAttributes": false
+                },
+                {
+                    "itemType": "B95",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": 2,
+                    "simpleChildrenTypes": [
+                        "HuntingOptic"
                     ],
                     "simpleChildrenUseDefaultAttributes": false
                 }
@@ -350,18 +398,19 @@
             ],
             "simpleChildrenTypes": [
                 "Mag_AK101_30Rnd",
-                "Mag_AK101_30Rnd",
-                "Mag_AK101_30Rnd",
+                "Mag_AK101_30Rnd_Green",
+                "Mag_AK101_30Rnd_Black",
                 "Ammo_HuntingBolt",
                 "Ammo_HuntingBolt",
                 "Ammo_HuntingBolt",
+                "Ammo_308WinTracer",
+                "Ammo_308WinTracer",
+                "Ammo_308WinTracer",
                 "BandageDressing",
                 "BandageDressing",
                 "BandageDressing",
                 "Morphine",
                 "SalineBagIV",
-                "Ammo_308WinTracer",
-                "Ammo_308WinTracer",
                 "Battery9V",
                 "Battery9V",
                 "AK_Suppressor",
