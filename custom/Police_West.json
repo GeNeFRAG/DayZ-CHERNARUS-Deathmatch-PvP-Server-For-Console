@@ -167,7 +167,7 @@
                                 "quantityMin": 1.0,
                                 "quantityMax": 1.0
                             },
-                            "quickBarSlot": 3,
+                           "quickBarSlot": 4,
                             "simpleChildrenTypes": [
                                 "Battery9V"
                             ],
@@ -336,6 +336,16 @@
                         "quantityMax": 1.0
                     },
                     "quickBarSlot": 0
+                },
+                {
+                    "itemType": "Morphine",
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": 5
                 }
             ],
             "simpleChildrenTypes": [
