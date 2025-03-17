@@ -10617,6 +10617,7 @@
     </container>
   </group>
   <group name="Wreck_UH1Y" lootmax="15">
+    <usage name="DeathMatch" />
     <container name="lootFloor" lootmax="15">
       <tag name="floor" />
       <tag name="shelves" />
@@ -10687,6 +10688,7 @@
     </container>
   </group>
   <group name="Wreck_Mi8_Crashed" lootmax="15">
+    <usage name="DeathMatch" />
     <container name="lootFloor" lootmax="15">
       <tag name="floor" />
       <tag name="shelves" />
@@ -13173,6 +13175,7 @@
     </dispatch>
   </group>
   <group name="Land_Wreck_offroad02_aban1" lootmax="6">
+    <usage name="DeathMatch" />
     <container name="loot" lootmax="6">
       <tag name="floor" />
       <tag name="shelves" />
@@ -13204,6 +13207,7 @@
     </dispatch>
   </group>
   <group name="Land_Wreck_offroad02_aban2" lootmax="14">
+    <usage name="DeathMatch" />
     <container name="loot" lootmax="14">
       <tag name="floor" />
       <tag name="shelves" />
