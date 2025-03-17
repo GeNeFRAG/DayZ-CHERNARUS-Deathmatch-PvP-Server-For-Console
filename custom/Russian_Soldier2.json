@@ -325,23 +325,22 @@
             "simpleChildrenTypes": [
                 "Mag_AKM_Drum75Rnd",
                 "Mag_AKM_Drum75Rnd",
+                "Mag_SVD_10Rnd",
+                "Mag_SVD_10Rnd",
+                "Mag_IJ70_8Rnd",
+                "Mag_IJ70_8Rnd",
+                "Mag_IJ70_8Rnd",
                 "Ammo_762x54Tracer",
                 "Ammo_762x54Tracer",
-                "Ammo_762x54Tracer",
+                "AK_Suppressor",
+                "AK_Suppressor",
                 "BandageDressing",
                 "BandageDressing",
                 "BandageDressing",
                 "Morphine",
                 "SalineBagIV",
-                "Mag_IJ70_8Rnd",
-                "Mag_IJ70_8Rnd",
-                "Mag_IJ70_8Rnd",
                 "Battery9V",
-                "Battery9V",
-                "AK_Suppressor",
-                "AK_Suppressor",
-                "Mag_SVD_10Rnd",
-                "Mag_SVD_10Rnd"
+                "Battery9V"
             ],
             "simpleChildrenUseDefaultAttributes": false
         }

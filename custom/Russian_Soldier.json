@@ -352,21 +352,6 @@
                     "simpleChildrenTypes": [
                         "Canteen"
                     ],
-                    "complexChildrenTypes": [
-                        {
-                            "itemType": "PlateCarrierHolster_Black",
-                            "attributes": {
-                                "healthMin": 1.0,
-                                "healthMax": 1.0,
-                                "quantityMin": 1.0,
-                                "quantityMax": 1.0
-                            },
-                            "simpleChildrenTypes": [
-                                "CZ75"
-                            ],
-                            "simpleChildrenUseDefaultAttributes": false
-                        }
-                    ],
                     "simpleChildrenUseDefaultAttributes": false
                 }
             ]
@@ -453,26 +438,26 @@
                 }
             ],
             "simpleChildrenTypes": [
+                "Mag_AK74_45Rnd",
+                "Mag_AK74_45Rnd",
+                "Mag_AK74_45Rnd",
                 "Mag_CZ75_15Rnd",
                 "Mag_CZ75_15Rnd",
                 "Mag_CZ75_15Rnd",
                 "Ammo_762x54Tracer",
                 "Ammo_762x54Tracer",
                 "Ammo_762x54Tracer",
+                "AK_Suppressor",
+                "AK_Suppressor",
+                "PistolSuppressor",
+                "PistolSuppressor",
                 "BandageDressing",
                 "BandageDressing",
                 "BandageDressing",
                 "Morphine",
                 "SalineBagIV",
-                "Mag_AK74_45Rnd",
-                "Mag_AK74_45Rnd",
-                "Mag_AK74_45Rnd",
                 "Battery9V",
-                "Battery9V",
-                "AK_Suppressor",
-                "AK_Suppressor",
-                "PistolSuppressor",
-                "PistolSuppressor"
+                "Battery9V"
             ],
             "simpleChildrenUseDefaultAttributes": false
         }

@@ -298,6 +298,21 @@
                     "simpleChildrenTypes": [
                         "Canteen"
                     ],
+                    "complexChildrenTypes": [
+                        {
+                            "itemType": "PlateCarrierHolster_Black",
+                            "attributes": {
+                                "healthMin": 1.0,
+                                "healthMax": 1.0,
+                                "quantityMin": 1.0,
+                                "quantityMax": 1.0
+                            },
+                            "simpleChildrenTypes": [
+                                "MakarovIJ70"
+                            ],
+                            "simpleChildrenUseDefaultAttributes": false
+                        }
+                    ],
                     "simpleChildrenUseDefaultAttributes": false
                 }
             ]
@@ -347,21 +362,20 @@
                 "Mag_SSG82_5rnd",
                 "Mag_SSG82_5rnd",
                 "Mag_SSG82_5rnd",
-                "Ammo_762x39",
-                "Ammo_762x39",
-                "Ammo_762x39",
+                "Mag_IJ70_8Rnd",
+                "Mag_IJ70_8Rnd",
+                "Mag_IJ70_8Rnd",
+                "AK_Suppressor",
+                "AK_Suppressor",
+                "PistolSuppressor",
+                "PistolSuppressor",
                 "BandageDressing",
                 "BandageDressing",
                 "BandageDressing",
                 "Morphine",
                 "SalineBagIV",
                 "Battery9V",
-                "Battery9V",
-                "AK_Suppressor",
-                "AK_Suppressor",
-                "PistolSuppressor",
-                "PistolSuppressor",
-                "BandageDressing"
+                "Battery9V"
             ],
             "simpleChildrenUseDefaultAttributes": false
         }

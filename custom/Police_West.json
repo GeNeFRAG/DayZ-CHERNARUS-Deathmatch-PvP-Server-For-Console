@@ -267,6 +267,21 @@
                     "simpleChildrenTypes": [
                         "Canteen"
                     ],
+                    "complexChildrenTypes": [
+                        {
+                            "itemType": "PlateCarrierHolster_Black",
+                            "attributes": {
+                                "healthMin": 1.0,
+                                "healthMax": 1.0,
+                                "quantityMin": 1.0,
+                                "quantityMax": 1.0
+                            },
+                            "simpleChildrenTypes": [
+                                "Glock19"
+                            ],
+                            "simpleChildrenUseDefaultAttributes": false
+                        }
+                    ],
                     "simpleChildrenUseDefaultAttributes": false
                 }
             ]
@@ -316,19 +331,21 @@
                 "Mag_Scout_5Rnd",
                 "Mag_Scout_5Rnd",
                 "Mag_Scout_5Rnd",
+                "Mag_Glock_15Rnd",
+                "Mag_Glock_15Rnd",
+                "Mag_Glock_15Rnd",
                 "Ammo_556x45Tracer",
-                "Ammo_556x45Tracer",
-                "Ammo_556x45Tracer",
+                "M4_Suppressor",
+                "M4_Suppressor",
+                "PistolSuppressor",
+                "PistolSuppressor",
                 "BandageDressing",
                 "BandageDressing",
                 "BandageDressing",
                 "Morphine",
                 "SalineBagIV",
                 "Battery9V",
-                "Battery9V",
-                "M4_Suppressor",
-                "M4_Suppressor",
-                "BandageDressing"
+                "Battery9V"
             ],
             "simpleChildrenUseDefaultAttributes": false
         }

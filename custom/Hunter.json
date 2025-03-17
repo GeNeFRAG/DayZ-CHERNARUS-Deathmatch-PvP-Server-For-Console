@@ -406,15 +406,15 @@
                 "Ammo_308WinTracer",
                 "Ammo_308WinTracer",
                 "Ammo_308WinTracer",
+                "AK_Suppressor",
+                "AK_Suppressor",
                 "BandageDressing",
                 "BandageDressing",
                 "BandageDressing",
                 "Morphine",
                 "SalineBagIV",
                 "Battery9V",
-                "Battery9V",
-                "AK_Suppressor",
-                "AK_Suppressor"
+                "Battery9V"
             ],
             "simpleChildrenUseDefaultAttributes": false
         }
