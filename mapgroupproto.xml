@@ -13203,8 +13203,8 @@
         rpy="38.675709 0.000000 100.000000" dechance="0.000000" />
     </dispatch>
   </group>
-  <group name="Land_Wreck_offroad02_aban2" lootmax="2">
-    <container name="loot" lootmax="2">
+  <group name="Land_Wreck_offroad02_aban2" lootmax="14">
+    <container name="loot" lootmax="14">
       <tag name="floor" />
       <tag name="shelves" />
       <point pos="-0.319641 -1.640118 -1.818115" range="1.199951" height="0.390852" flags="32" />

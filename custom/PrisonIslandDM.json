@@ -335,6 +335,390 @@
             "scale": 0.9999284148216248,
             "enableCEPersistency": 0,
             "customString": ""
+        },
+        {
+            "name": "StaticObj_Wreck_T72_Chassis",
+            "pos": [
+                2696.722412109375,
+                24.173229217529298,
+                1313.290283203125
+            ],
+            "ypr": [
+                81.00000762939453,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wreck_T72_Turret",
+            "pos": [
+                2694.54345703125,
+                25.289844512939454,
+                1312.7830810546876
+            ],
+            "ypr": [
+                -67.01306915283203,
+                -4.864226341247559,
+                -2.8249735832214357
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wreck_T72_Chassis",
+            "pos": [
+                2712.75537109375,
+                24.17310905456543,
+                1304.24365234375
+            ],
+            "ypr": [
+                125.99999237060547,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wreck_T72_Turret",
+            "pos": [
+                2715.031494140625,
+                24.355865478515626,
+                1306.91796875
+            ],
+            "ypr": [
+                -57.5537109375,
+                0.031023724004626275,
+                -0.04879842698574066
+            ],
+            "scale": 0.8377863764762878,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_CncBlocks_short",
+            "pos": [
+                2707.499267578125,
+                24.06102752685547,
+                1310.796875
+            ],
+            "ypr": [
+                9.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_CncBlocks_short",
+            "pos": [
+                2705.374755859375,
+                24.056074142456056,
+                1305.35595703125
+            ],
+            "ypr": [
+                9.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Pillbox",
+            "pos": [
+                2662.322998046875,
+                24.45994758605957,
+                1313.7669677734376
+            ],
+            "ypr": [
+                -171.00010681152345,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Pillbox",
+            "pos": [
+                2724.802978515625,
+                24.417327880859376,
+                1311.0301513671876
+            ],
+            "ypr": [
+                -171.00009155273438,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Pillbox",
+            "pos": [
+                2723.04931640625,
+                24.428489685058595,
+                1298.6785888671876
+            ],
+            "ypr": [
+                -171.0001220703125,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wreck_BMP2",
+            "pos": [
+                2735.961669921875,
+                24.290468215942384,
+                1308.4307861328126
+            ],
+            "ypr": [
+                81.00000762939453,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Wreck_offroad02_aban2",
+            "pos": [
+                2737.40625,
+                25.913219451904298,
+                1291.6407470703126
+            ],
+            "ypr": [
+                -45.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Wreck_Mi8_Crashed",
+            "pos": [
+                2612.853271484375,
+                23.633752822875978,
+                1305.5361328125
+            ],
+            "ypr": [
+                62.99997329711914,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Wreck_offroad02_aban1",
+            "pos": [
+                2608.5498046875,
+                23.36052703857422,
+                1333.9346923828126
+            ],
+            "ypr": [
+                8.999984741210938,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wreck_BMP1",
+            "pos": [
+                2609.86328125,
+                22.570236206054689,
+                1340.5418701171876
+            ],
+            "ypr": [
+                -152.99990844726563,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wreck_BRDM",
+            "pos": [
+                2618.18896484375,
+                20.653696060180665,
+                1344.72509765625
+            ],
+            "ypr": [
+                71.9999771118164,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Wreck_V3S",
+            "pos": [
+                2609.15576171875,
+                23.094276428222658,
+                1327.7296142578126
+            ],
+            "ypr": [
+                -45.00003433227539,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Wreck_UH1Y",
+            "pos": [
+                2529.2392578125,
+                11.935646057128907,
+                1386.822509765625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Submarine_Middle",
+            "pos": [
+                2397.344970703125,
+                2.3733129501342775,
+                1312.5447998046876
+            ],
+            "ypr": [
+                171.0001220703125,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999862313270569,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Submarine_Front",
+            "pos": [
+                2404.605224609375,
+                0.5457429885864258,
+                1263.091064453125
+            ],
+            "ypr": [
+                172.25592041015626,
+                -0.00006579382170457393,
+                0.00015583602362312376
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Submarine_Back",
+            "pos": [
+                2389.686279296875,
+                -3.2495546340942385,
+                1361.2501220703126
+            ],
+            "ypr": [
+                171.18203735351563,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997019767761,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Wreck_UH1Y",
+            "pos": [
+                2934.742919921875,
+                3.356715679168701,
+                1192.9931640625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Road_Sidewalk_Stairs",
+            "pos": [
+                2791.9619140625,
+                31.219593048095704,
+                1239.5706787109376
+            ],
+            "ypr": [
+                -138.9104461669922,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform2_Stairs_30",
+            "pos": [
+                2791.099853515625,
+                26.543642044067384,
+                1230.4864501953126
+            ],
+            "ypr": [
+                -54.00002670288086,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Mil_ControlTower_East",
+            "pos": [
+                2477.466552734375,
+                11.428269386291504,
+                1224.9459228515626
+            ],
+            "ypr": [
+                110.95844268798828,
+                0.00018567150982562453,
+                0.00001447148770239437
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
         }
     ]
 }
