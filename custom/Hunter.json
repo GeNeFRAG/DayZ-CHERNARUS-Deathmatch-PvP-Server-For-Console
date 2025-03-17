@@ -156,7 +156,7 @@
                                         "quantityMin": 1.0,
                                         "quantityMax": 1.0
                                     },
-                                    "quickBarSlot": -1,
+                                    "quickBarSlot": 3,
                                     "simpleChildrenTypes": [
                                         "PistolOptic"
                                     ],

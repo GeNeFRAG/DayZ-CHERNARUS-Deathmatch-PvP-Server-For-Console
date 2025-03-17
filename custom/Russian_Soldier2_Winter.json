@@ -85,8 +85,21 @@
                                 "quantityMin": 1.0,
                                 "quantityMax": 1.0
                             },
-                            "simpleChildrenTypes": [
-                                "MakarovIJ70"
+                            "complexChildrenTypes": [
+                                {
+                                    "itemType": "MakarovIJ70",
+                                    "quickBarSlot": 3,
+                                    "attributes": {
+                                        "healthMin": 1.0,
+                                        "healthMax": 1.0,
+                                        "quantityMin": 1.0,
+                                        "quantityMax": 1.0
+                                    },
+                                    "simpleChildrenTypes": [
+                                        "Mag_IJ70_8Rnd"
+                                    ],
+                                    "simpleChildrenUseDefaultAttributes": false
+                                }
                             ],
                             "simpleChildrenUseDefaultAttributes": false
                         }
@@ -327,7 +340,6 @@
                 "Mag_AKM_Drum75Rnd",
                 "Mag_SV98_10Rnd",
                 "Mag_SV98_10Rnd",
-                "Mag_IJ70_8Rnd",
                 "Mag_IJ70_8Rnd",
                 "Mag_IJ70_8Rnd",
                 "Ammo_762x54Tracer",

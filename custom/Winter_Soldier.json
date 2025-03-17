@@ -102,8 +102,22 @@
                                 "quantityMin": 1.0,
                                 "quantityMax": 1.0
                             },
-                            "simpleChildrenTypes": [
-                                "Colt1911"
+                            "complexChildrenTypes": [
+                                {
+                                    "itemType": "Colt1911",
+                                    "quickBarSlot": 3,
+                                    "attributes": {
+                                        "healthMin": 1.0,
+                                        "healthMax": 1.0,
+                                        "quantityMin": 1.0,
+                                        "quantityMax": 1.0
+                                    },
+                                    "simpleChildrenTypes": [
+                                        "Mag_1911_7Rnd",
+                                        "PistolSuppressor"
+                                    ],
+                                    "simpleChildrenUseDefaultAttributes": false
+                                }
                             ],
                             "simpleChildrenUseDefaultAttributes": false
                         }
@@ -345,12 +359,10 @@
                 "Mag_STANAG_60Rnd",
                 "Mag_1911_7Rnd",
                 "Mag_1911_7Rnd",
-                "Mag_1911_7Rnd",
                 "Ammo_308WinTracer",
                 "Ammo_308WinTracer",
                 "M4_Suppressor",
                 "M4_Suppressor",
-                "PistolSuppressor",
                 "PistolSuppressor",
                 "BandageDressing",
                 "BandageDressing",
