@@ -24,6 +24,23 @@
                         "M4_PlasticHndgrd"
                     ],
                     "simpleChildrenUseDefaultAttributes": false
+                },
+                {
+                    "itemType": "Aug",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": 1,
+                    "simpleChildrenTypes": [
+                        "M4_Suppressor",
+                        "ACOGOptic_6x",
+                        "Mag_STANAG_60Rnd"
+                    ],
+                    "simpleChildrenUseDefaultAttributes": false
                 }
             ]
         },

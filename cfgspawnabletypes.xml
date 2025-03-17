@@ -60,10 +60,11 @@
 			<item name="Mag_FAL_20Rnd" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="M4_T3NRDSOptic" chance="0.20" />
-			<item name="ReflexOptic" chance="0.20" />
-			<item name="ACOGOptic" chance="0.20" />
-			<item name="ACOGOptic_6x" chance="0.20" />
+			<item name="M68Optic" chance="0.25"/>
+			<item name="M4_T3NRDSOptic" chance="0.25" />
+			<item name="ReflexOptic" chance="0.25" />
+			<item name="ACOGOptic" chance="0.25" />
+			<item name="ACOGOptic_6x" chance="0.25" />
 		</cargo>
 		<cargo chance="1.00">
 			<item name="BandageDressing" />
@@ -81,7 +82,7 @@
 			<item name="Canteen" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="PeachesCan" />
+			<item name="PeachesCan_Opened" />
 		</cargo>
 	</type>
 	<type name="AliceBag_Green">
@@ -118,7 +119,7 @@
 			<item name="Canteen" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="TacticalBaconCan" />
+			<item name="TacticalBaconCan_Opened" />
 		</cargo>
 	</type>
 	<type name="MountainBag_Orange">
@@ -159,7 +160,7 @@
 			<item name="Battery9V" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="PeachesCan" />
+			<item name="SpaghettiCan_Opened" />
 		</cargo>
 	</type>
 	<type name="MountainBag_Blue">
@@ -191,7 +192,7 @@
 			<item name="Battery9V" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="PeachesCan" />
+			<item name="BakedBeansCan_Opened" />
 		</cargo>
 	</type>
 	<type name="MountainBag_Red">
@@ -226,7 +227,10 @@
 			<item name="BandageDressing" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="PeachesCan" />
+			<item name="Battery9V" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CrabCan_Opened" />
 		</cargo>
 	</type>
 	<type name="FurCourierBag">
@@ -272,7 +276,7 @@
 			<item name="Canteen" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="PeachesCan" />
+			<item name="PeachesCan_Opened" />
 		</cargo>
 	</type>
 	<type name="DryBag_Green">
@@ -310,7 +314,112 @@
 			<item name="Canteen" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="TacticalBaconCan" />
+			<item name="TacticalBaconCan_Opened" />
+		</cargo>
+	</type>
+	<type name="DryBag_Orange">
+		<cargo chance="1.00">
+			<item name="SV98" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Ammo_762x54Tracer" chance="0.50" />
+			<item name="Ammo_762x54" chance="0.50" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Ammo_762x54Tracer" chance="0.50" />
+			<item name="Ammo_762x54" chance="0.50" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Ammo_762x54Tracer" chance="0.50" />
+			<item name="Ammo_762x54" chance="0.50" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_SV98_10Rnd" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_SV98_10Rnd" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="SalineBagIV" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="ACOGOptic_6x" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="BandageDressing" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Canteen" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="PeachesCan_Opened" />
+		</cargo>
+	</type>
+	<type name="DryBag_Red">
+		<cargo chance="1.00">
+			<item name="Aug" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_STANAG_60Rnd" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_STANAG_60Rnd" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_STANAG_60Rnd" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_STANAG_60Rnd" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="SalineBagIV" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="ACOGOptic_6x" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="BandageDressing" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Canteen" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="CrabCan_Opened" />
+		</cargo>
+	</type>
+	<type name="DryBag_Blue">
+		<cargo chance="1.00">
+			<item name="Saiga" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_Saiga_Drum20Rnd" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_Saiga_Drum20Rnd" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_Saiga_Drum20Rnd" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Ammo_12gaPellets" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Ammo_12gaPellets" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Ammo_12gaPellets" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="SalineBagIV" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="BandageDressing" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Canteen" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="SpaghettiCan_Opened" />
 		</cargo>
 	</type>
 	<type name="SeaChest">
@@ -378,8 +487,7 @@
 			<item name="Battery9V" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="Mag_AK74_30Rnd" chance="0.50" />
-			<item name="Mag_AK74_45Rnd" chance="0.50" />
+			<item name="Battery9V" />
 		</cargo>
 		<cargo chance="1.00">
 			<item name="Mag_AK74_30Rnd" chance="0.50" />
@@ -396,6 +504,37 @@
 		<cargo chance="1.00">
 			<item name="Mag_AK74_30Rnd" chance="0.50" />
 			<item name="Mag_AK74_45Rnd" chance="0.50" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_AK74_30Rnd" chance="0.50" />
+			<item name="Mag_AK74_45Rnd" chance="0.50" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_M14_20Rnd" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_M14_20Rnd" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_M14_20Rnd" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_M14_20Rnd" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CZ550_10Rnd" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CZ550_10Rnd" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CZ550_10Rnd" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_Saiga_Drum20Rnd" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_Saiga_Drum20Rnd" />
 		</cargo>
     </type>
 	<type name="WaterproofBag_Yellow">
@@ -780,15 +919,15 @@
 			<item name="Canteen" chance="0.20" />
 			<item name="Sardines" chance="0.20" />
 			<item name="TunaCan" chance="0.20" />
-			<item name="TacticalBaconCan" chance="0.20" />
-			<item name="SpaghettiCan" chance="0.20" />
+			<item name="TacticalBaconCan_Opened" chance="0.20" />
+			<item name="SpaghettiCan_Opened" chance="0.20" />
 		</cargo>
 		<cargo chance="1.00">
 			<item name="Canteen" chance="0.20" />
 			<item name="Sardines" chance="0.20" />
 			<item name="TunaCan" chance="0.20" />
-			<item name="TacticalBaconCan" chance="0.20" />
-			<item name="SpaghettiCan" chance="0.20" />
+			<item name="TacticalBaconCan_Opened" chance="0.20" />
+			<item name="SpaghettiCan_Opened" chance="0.20" />
 		</cargo>
 		<cargo chance="1.00">
 			<item name="SodaCan_Cola" chance="0.20" />
@@ -863,6 +1002,44 @@
 			<item name="PeachesCan" />
 		</cargo>
 	</type>
+	<type name="CoyoteBag_Winter">
+		<cargo chance="1.00">
+			<item name="Mp133Shotgun" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Ammo_12gaPellets" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Ammo_12gaPellets" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Ammo_12gaPellets" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Ammo_12gaSlug" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Ammo_12gaSlug" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Ammo_12gaSlug" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Battery9V" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="FNP45_MRDSOptic" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="BandageDressing" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Canteen" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="PeachesCan" />
+		</cargo>
+	</type>
 	<type name="TortillaBag_Winter">
 		<cargo chance="1.00">
 			<item name="M14" />
@@ -895,7 +1072,7 @@
 			<item name="Canteen" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="PeachesCan" />
+			<item name="PeachesCan_Opened" />
 		</cargo>
 	</type>
 	<type name="TortillaBag">
@@ -918,6 +1095,12 @@
 			<item name="Mag_CZ550_10Rnd" />
 		</cargo>
 		<cargo chance="1.00">
+			<item name="Mag_CZ550_10Rnd" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Mag_CZ550_10Rnd" />
+		</cargo>
+		<cargo chance="1.00">
 			<item name="WaterBottle" />
 		</cargo>
 		<cargo chance="1.00">
@@ -927,7 +1110,7 @@
 			<item name="Canteen" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="PeachesCan" />
+			<item name="PeachesCan_Opened" />
 		</cargo>
 	</type>
 	<type name="HuntingBag">
@@ -954,6 +1137,9 @@
 		</cargo>
 		<cargo chance="1.00">
 			<item name="BandageDressing" />
+		</cargo>
+		<cargo chance="1.00">
+			<item name="Battery9V" />
 		</cargo>
 		<cargo chance="1.00">
 			<item name="Scout" chance="0.50" />
