@@ -1,14 +1,12 @@
-# DayZ Chernarus Deathmatch PvP Severograd Only FUN Server
+# DayZ Chernarus Deathmatch PvP Only FUN Server
 
 ## Gameplay Features
 
-* Gameplay and loot are limited to Severograd (loot only spawns there).
-* Deathmatch PvP gameplay.
+* Deathmatch PvP gameplay (Prison Island, Severo).
 * Players spawn fully equipped with various loadouts featuring different armies and police gear.
-* Loot bags containing weapons, ammo, grenades, and supplies spawn throughout the city.
+* Loot bags containing weapons, ammo, grenades, and supplies spawn throughout the area.
 * Loot lifetime is 5 minutes for fast cleanup.
-* HUMVEEs spawn every 5 minutes.
-* Player spawns are distributed across Severograd.
+* Player spawns are distributed across the area.
 * Zombies, animals, and other events are disabled.
 * Weather is always sunny.
 * Night lasts 15 minutes, and daylight lasts 4 hours.
