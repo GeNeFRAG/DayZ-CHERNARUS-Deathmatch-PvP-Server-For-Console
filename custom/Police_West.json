@@ -241,8 +241,130 @@
             "slotName": "Mask",
             "discreteItemSets": [
                 {
+                    "itemType": "Balaclava3Holes_Black",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Balaclava3Holes_Green",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Balaclava3Holes_Green",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Balaclava3Holes_White",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "BalaclavaMask_BDU",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
                     "itemType": "BalaclavaMask_Black",
                     "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "BalaclavaMask_Blackskull",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "BalaclavaMask_Chain",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "BalaclavaMask_Green",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "BalaclavaMask_Pig",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "BalaclavaMask_Pink",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "BalaclavaMask_White",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
                     "attributes": {
                         "healthMin": 1.0,
                         "healthMax": 1.0,
@@ -304,8 +426,438 @@
             "slotName": "Armband",
             "discreteItemSets": [
                 {
+                    "itemType": "Armband_APA",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_Altis",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_BabyDeer",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_Bear",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_Black",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_Blue",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_Bohemia",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_BrainZ",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_CDF",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_CHEL",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_CMC",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_Cannibals",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_Chedaki",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_Chernarus",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_Crook",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_DayZ",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_Green",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_HunterZ",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_Livonia",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
                     "itemType": "Armband_LivoniaArmy",
                     "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_LivoniaPolice",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_NAPA",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_NSahrani",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_Orange",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_Pink",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_Pirates",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_RSTA",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_Red",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_Refuge",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_Rex",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_Rooster",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_SSahrani",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_Snake",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_TEC",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_UEC",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_White",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_Wolf",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_Yellow",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_Zagorky",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    }
+                },
+                {
+                    "itemType": "Armband_Zenit",
+                    "spawnWeight": 1,
+                    "quickBarSlot": -1,
                     "attributes": {
                         "healthMin": 1.0,
                         "healthMax": 1.0,
