@@ -3,7 +3,7 @@
     <message>
         <deadline>110</deadline>
         <shutdown>1</shutdown>
-        <text>Server will shutdown soon!</text>
+        <text>Server will restart soon!</text>
     </message>
     <message>
         <delay>1</delay>
