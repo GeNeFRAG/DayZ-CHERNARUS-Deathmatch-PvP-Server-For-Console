@@ -267,6 +267,9 @@
 			<item name="Ammo_762x39Tracer" />
 		</cargo>
 		<cargo chance="1.00">
+			<item name="Ammo_762x39Tracer" />
+		</cargo>
+		<cargo chance="1.00">
 			<item name="BandageDressing" />
 		</cargo>
 		<cargo chance="1.00">
@@ -340,19 +343,10 @@
 			<item name="Mag_SV98_10Rnd" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="SalineBagIV" />
+			<item name="Mag_SV98_10Rnd" />
 		</cargo>
 		<cargo chance="1.00">
 			<item name="ACOGOptic_6x" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="BandageDressing" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="Canteen" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="PeachesCan_Opened" />
 		</cargo>
 	</type>
 	<type name="DryBag_Red">
@@ -372,19 +366,7 @@
 			<item name="Mag_STANAG_60Rnd" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="SalineBagIV" />
-		</cargo>
-		<cargo chance="1.00">
 			<item name="ACOGOptic_6x" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="BandageDressing" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="Canteen" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="CrabCan_Opened" />
 		</cargo>
 	</type>
 	<type name="DryBag_Blue">
@@ -409,18 +391,6 @@
 		<cargo chance="1.00">
 			<item name="Ammo_12gaPellets" />
 		</cargo>
-		<cargo chance="1.00">
-			<item name="SalineBagIV" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="BandageDressing" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="Canteen" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="SpaghettiCan_Opened" />
-		</cargo>
 	</type>
 	<type name="SeaChest">
 		<cargo chance="1.00">
@@ -439,12 +409,6 @@
 			<item name="Mag_STANAG_60Rnd" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="Mag_STANAG_60Rnd" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="Mag_STANAG_60Rnd" />
-		</cargo>
-		<cargo chance="1.00">
 			<item name="Mag_FAL_20Rnd" />
 		</cargo>
 		<cargo chance="1.00">
@@ -452,21 +416,6 @@
 		</cargo>
 		<cargo chance="1.00">
 			<item name="Mag_FAL_20Rnd" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="Mag_FAL_20Rnd" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="Mag_FAL_20Rnd" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="Mag_FAL_20Rnd" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="Mag_SVD_10Rnd" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="Mag_SVD_10Rnd" />
 		</cargo>
 		<cargo chance="1.00">
 			<item name="Mag_SVD_10Rnd" />
@@ -506,23 +455,10 @@
 			<item name="Mag_AK74_45Rnd" chance="0.50" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="Mag_AK74_30Rnd" chance="0.50" />
-			<item name="Mag_AK74_45Rnd" chance="0.50" />
-		</cargo>
-		<cargo chance="1.00">
 			<item name="Mag_M14_20Rnd" />
 		</cargo>
 		<cargo chance="1.00">
 			<item name="Mag_M14_20Rnd" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="Mag_M14_20Rnd" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="Mag_M14_20Rnd" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="Mag_CZ550_10Rnd" />
 		</cargo>
 		<cargo chance="1.00">
 			<item name="Mag_CZ550_10Rnd" />
@@ -1117,12 +1053,6 @@
 		<cargo chance="1.0">
 			<item name="M4_Suppressor" />
 		</cargo>
-		<cargo chance="1.0">
-			<item name="M4_Suppressor" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="Mag_Scout_5Rnd" />
-		</cargo>
 		<cargo chance="1.00">
 			<item name="Mag_Scout_5Rnd" />
 		</cargo>
@@ -1136,9 +1066,6 @@
 			<item name="Ammo_556x45" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="BandageDressing" />
-		</cargo>
-		<cargo chance="1.00">
 			<item name="Battery9V" />
 		</cargo>
 		<cargo chance="1.00">
@@ -1146,9 +1073,7 @@
 			<item name="Scout_Chernarus" chance="0.50" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="ACOGOptic_6x" chance="0.50" />
-			<item name="ACOGOptic" chance="0.50" />
-			<item name="M68Optic" chance="0.50" />
+			<item name="ACOGOptic_6x" />
 		</cargo>
 	</type>
 	<!-- Death Match Loot END -->
