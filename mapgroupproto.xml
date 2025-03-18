@@ -5765,7 +5765,8 @@
       <point pos="2.966833 -0.696869 1.577464" range="1.199951" height="1.661102" />
     </container>
   </group>
-  <group name="Land_Mil_Tent_Big1_1" lootmax="5">
+  <group name="Land_Mil_Tent_Big1_1" lootmax="15">
+    <usage name="DeathMatch" />
     <container name="lootFloor">
       <tag name="floor" />
       <tag name="shelves" />
