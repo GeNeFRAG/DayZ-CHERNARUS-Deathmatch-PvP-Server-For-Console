@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <messages>
     <message>
-        <deadline>170</deadline>
+        <deadline>110</deadline>
         <shutdown>1</shutdown>
         <text>Server will shutdown soon!</text>
     </message>
@@ -13,9 +13,14 @@
     <message>
         <delay>1</delay>
         <onconnect>1</onconnect>
-        <text>SERVER RESTARTS EVERY 2 HOURS</text>
+        <text>SERVER RESTARTS EVERY 90 MIN</text>
     </message>
-     <message>
+    <message>
+        <delay>1</delay>
+        <onconnect>1</onconnect>
+        <text>Check out our Discord for Killfeed, Stats and our other Server Projects!</text>
+    </message>
+    <message>
         <delay>1</delay>
         <onconnect>1</onconnect>
         <text>https://discord.gg/2EFXyWdqr8</text>
@@ -32,5 +37,9 @@
     <message>
         <repeat>15</repeat>
         <text>https://discord.gg/2EFXyWdqr8</text>
+    </message>
+     <message>
+        <repeat>15</repeat>
+        <text>SERVER RESTARTS EVERY 90 MIN</text>
     </message>
 </messages>
