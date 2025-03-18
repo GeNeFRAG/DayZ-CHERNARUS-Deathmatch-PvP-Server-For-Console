@@ -10616,9 +10616,9 @@
       <point pos="-3.165771 -16.946526 6.819825" range="1.038574" height="1.508690" />
     </container>
   </group>
-  <group name="Wreck_UH1Y" lootmax="15">
+  <group name="Wreck_UH1Y" lootmax="25">
     <usage name="DeathMatch" />
-    <container name="lootFloor" lootmax="15">
+    <container name="lootFloor" lootmax="25">
       <tag name="floor" />
       <tag name="shelves" />
       <point pos="1.357636 -1.856922 2.039550" range="0.185402" height="1.756649" flags="32" />
@@ -10687,9 +10687,9 @@
       <point pos="2.554070 -1.697937 4.891639" range="0.925143" height="1.900002" />
     </container>
   </group>
-  <group name="Wreck_Mi8_Crashed" lootmax="15">
+  <group name="Wreck_Mi8_Crashed" lootmax="33">
     <usage name="DeathMatch" />
-    <container name="lootFloor" lootmax="15">
+    <container name="lootFloor" lootmax="33">
       <tag name="floor" />
       <tag name="shelves" />
       <point pos="-2.693787 -1.888990 1.671386" range="0.703328" height="2.000000" flags="32" />
@@ -13226,11 +13226,13 @@
       <point pos="1.541626 -0.975311 0.096680" range="0.248629" height="0.702160" />
       <point pos="-1.554413 -0.488274 0.639648" range="0.271875" height="0.679688" />
     </container>
+    <!--
     <dispatch>
       <proxy type="Offroad_02_Door_1_2_Rust" pos="0.55 -0.75 -1.15" rpy="-2.0 190.0 0.0" />
       <proxy type="Offroad_02_Door_1_1_Rust" pos="-0.35 -0.65 -1.2" rpy="0.0 190.0 0.0" />
       <proxy type="Offroad_02_Wheel" pos=" -1.7 -1.2 -1.05" rpy="0.0 0.0 0.0" />
     </dispatch>
+    -->
   </group>
   <group name="Land_Lunapark_Shooting_Gallery" lootmax="4">
     <container name="lootFloor" lootmax="2">
@@ -14085,8 +14087,8 @@
       <proxy type="Truck_01_Door_1_1_OrangeRust" pos="-1.55 1.02 -1.10" rpy="0.0 160.0 0.0" />
     </dispatch>
   </group>
-  <group name="Land_Wreck_offroad02_aban1_DE" lootmax="3">
-    <container name="loot" lootmax="3">
+  <group name="Land_Wreck_offroad02_aban1_DE" lootmax="14">
+    <container name="loot" lootmax="14">
       <tag name="floor" />
       <tag name="shelves" />
       <point pos="0.555043 -0.987457 0.805618" range="0.100000" height="0.250000" />
@@ -14104,12 +14106,14 @@
       <point pos="0.665748 -1.186035 -0.555575" range="0.097782" height="0.250000" />
       <point pos="-0.304003 -1.279922 -0.610155" range="0.083643" height="0.250000" />
     </container>
+    <!--
     <dispatch>
       <proxy type="Offroad_02_Door_2_2_Rust" pos="0.55 -0.85 1.15" rpy="2.0 170.0 0.0" />
       <proxy type="Offroad_02_Door_2_1_Rust" pos="-0.35 -0.85 1.15" rpy="2.0 170.0 0.0" />
       <proxy type="Offroad_02_Wheel" pos="1.5 -1.3 1.5" rpy="0.0 0.0 0.0" />
       <proxy type="Offroad_02_Trunk_Rust" pos="1.75 -0.3 0.0" rpy="37.0 0.0 100.0" />
     </dispatch>
+    -->
   </group>
   <group name="Land_Wreck_offroad02_aban2_DE" lootmax="3">
     <container name="loot" lootmax="3">
