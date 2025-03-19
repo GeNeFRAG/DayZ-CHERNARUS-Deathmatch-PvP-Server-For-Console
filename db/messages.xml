@@ -13,12 +13,17 @@
     <message>
         <delay>1</delay>
         <onconnect>1</onconnect>
-        <text>SERVER RESTARTS EVERY 90 MIN</text>
+        <text>THIS SERVER RESTARTS EVERY 90 MIN</text>
     </message>
     <message>
         <delay>1</delay>
         <onconnect>1</onconnect>
-        <text>Check out our Discord for Killfeed, Stats and our other Server Projects!</text>
+        <text>Check out our Discord for Killfeed, Stats and our very cool Chernarus PvPe Server:</text>
+    </message>
+     <message>
+        <delay>1</delay>
+        <onconnect>1</onconnect>
+        <text>Killing LandZ PvPe • EUROPE • EN/GER</text>
     </message>
     <message>
         <delay>1</delay>
@@ -32,7 +37,11 @@
     </message>
     <message>
         <repeat>15</repeat>
-        <text>Check out our Discord for Killfeed, Stats and our other Server Projects!</text>
+        <text>Check out our Discord for Killfeed, Stats and our very cool Chernarus PvPe Server:</text>
+    </message>
+    <message>
+        <repeat>15</repeat>
+        <text>Killing LandZ PvPe • EUROPE • EN/GER</text>
     </message>
     <message>
         <repeat>15</repeat>
@@ -40,6 +49,6 @@
     </message>
      <message>
         <repeat>15</repeat>
-        <text>SERVER RESTARTS EVERY 90 MIN</text>
+        <text>THIS SERVER RESTARTS EVERY 90 MIN</text>
     </message>
 </messages>
