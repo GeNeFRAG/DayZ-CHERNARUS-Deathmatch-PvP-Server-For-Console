@@ -119,7 +119,7 @@
         <usage name="DeathMatch"/>
     </type>
 <type name="FurCourierBag">
-        <nominal>7</nominal>
+        <nominal>10</nominal>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <min>7</min>
