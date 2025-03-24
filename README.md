@@ -2,7 +2,8 @@
 
 ## Gameplay Features
 
-* Deathmatch PvP gameplay (Prison Island, Severo).
+* Deathmatch PvP gameplay featuring Prison Island.
+* Prison Island mod with Bridges, Stairs, Watch Towers, etc for faster Gameplay.
 * Players spawn fully equipped with various loadouts featuring different armies and police gear.
 * Loot bags containing weapons, ammo, grenades, and supplies spawn throughout the area.
 * Loot lifetime is 5 minutes for fast cleanup.
