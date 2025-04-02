@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <map>
     <!-- PrisonIsland Mod -->
-   <group name="StaticObj_Roadblock_Bags_Long" pos="2765.574219 30.840828 1246.389282" rpy="-0.000037 -0.000004 40.841499" a="49.1585"/>
+   	<group name="StaticObj_Roadblock_Bags_Long" pos="2765.574219 30.840828 1246.389282" rpy="-0.000037 -0.000004 40.841499" a="49.1585"/>
 	<group name="StaticObj_Roadblock_Bags_Long" pos="2762.423584 30.841240 1242.745850" rpy="-0.000203 0.000113 40.841682" a="49.1583"/>
 	<group name="StaticObj_Roadblock_Bags_Long" pos="2767.765137 31.079418 1246.297485" rpy="0.001422 -7.252001 -47.281586" a="137.282"/>
 	<group name="StaticObj_Roadblock_Bags_Long" pos="2770.146729 31.470102 1244.198730" rpy="0.001415 -7.252422 -49.702412" a="139.702"/>
@@ -43,7 +43,7 @@
 	<group name="StaticObj_Roadblock_Pillbox" pos="2724.802979 24.417328 1311.030151" rpy="-0.000000 0.000000 -171.000092" a="-98.9999"/>
 	<group name="StaticObj_Roadblock_Pillbox" pos="2723.049316 24.428522 1298.678589" rpy="-0.000000 0.000000 -171.000381" a="-98.9996"/>
 	<group name="StaticObj_Wreck_BMP2" pos="2735.961670 24.290508 1308.430786" rpy="-0.000000 0.000000 80.999977" a="9.00002"/>
-	<group name="Land_Wreck_offroad02_aban2" pos="2734.892822 25.499628 1294.293701" rpy="-4.075023 6.396639 136.174469" a="-46.1745"/>
+	<group name="Land_Wreck_offroad02_aban2" pos="2729.654541 25.947201 1281.508545" rpy="-0.000000 0.000000 -141.707718" a="-128.292"/>
 	<group name="Wreck_Mi8_Crashed" pos="2612.853271 23.633837 1305.536133" rpy="-0.000000 0.000000 62.999607" a="27.0004"/>
 	<group name="Land_Wreck_offroad02_aban1" pos="2608.549805 23.360592 1333.934692" rpy="-0.000000 0.000000 8.999661" a="81.0003"/>
 	<group name="StaticObj_Wreck_BMP1" pos="2611.664063 22.403444 1341.508423" rpy="-0.000000 0.000000 29.177481" a="60.8225"/>
@@ -64,7 +64,7 @@
 	<group name="StaticObj_Roadblock_Pillbox" pos="2823.961182 27.059980 1227.187256" rpy="-0.000000 0.000000 -171.000320" a="-98.9997"/>
 	<group name="StaticObj_Roadblock_Bags_Long" pos="2797.057373 25.827717 1211.803955" rpy="-0.000000 0.000000 -47.233936" a="137.234"/>
 	<group name="StaticObj_Roadblock_Bags_Long" pos="2800.975098 25.930258 1223.616577" rpy="-0.000000 0.000000 38.110996" a="51.889"/>
-	<group name="StaticObj_Roadblock_Pillbox" pos="2809.080566 27.029978 1205.698120" rpy="-0.000000 0.000000 -108.000237" a="-162"/>
+	<group name="StaticObj_Roadblock_Pillbox" pos="2808.276123 27.038801 1209.731812" rpy="-0.000000 0.000000 -96.807755" a="-173.192"/>
 	<group name="StaticObj_Roadblock_Bags_Long" pos="2771.015869 35.602463 1222.083496" rpy="-0.000109 -0.000173 -49.655476" a="139.655"/>
 	<group name="StaticObj_Roadblock_Bags_Long" pos="2768.572998 35.617256 1224.201172" rpy="-0.000113 -0.000173 -49.655411" a="139.655"/>
 	<group name="StaticObj_Roadblock_Bags_Long" pos="2766.331787 35.618160 1226.141357" rpy="-0.000114 -0.000168 -49.655464" a="139.655"/>
@@ -130,18 +130,25 @@
 	<group name="StaticObj_Bridge_Wood_50" pos="2684.738525 0.617983 1236.963989" rpy="-0.000000 -0.000000 27.000000" a="63"/>
 	<group name="Land_Pier_Floating_Bridge" pos="2695.755859 0.747855 1362.126099" rpy="1.121272 -0.399756 104.295349" a="-14.2953"/>
 	<group name="StaticObj_Misc_Antenna" pos="2615.121338 54.250118 1270.382813" rpy="-0.000000 -0.000000 0.000000" a="90"/>
-	<group name="Land_Mil_Tent_Big1_1" pos="2767.821533 26.004416 1190.931396" rpy="-0.000000 0.000000 -138.103638" a="-131.896"/>
-	<group name="Land_Mil_Tent_Big1_1" pos="2762.582031 26.004416 1195.632202" rpy="-0.000000 0.000000 -138.103638" a="-131.896"/>
-	<group name="Land_Mil_Tent_Big1_1" pos="2757.350342 26.004416 1200.326294" rpy="-0.000000 0.000000 -138.103638" a="-131.896"/>
+	<group name="Land_Mil_Tent_Big1_1" pos="2769.934082 26.012985 1189.154053" rpy="-0.000000 0.000000 -138.103638" a="-131.896"/>
+	<group name="Land_Mil_Tent_Big1_1" pos="2763.616699 25.999992 1195.352905" rpy="-0.000000 0.000000 -138.103638" a="-131.896"/>
+	<group name="Land_Mil_Tent_Big1_1" pos="2756.902344 26.000019 1201.267090" rpy="-0.000000 0.000000 -138.103638" a="-131.896"/>
 	<group name="StaticObj_Misc_Table_Camp" pos="2769.098877 26.400179 1196.836914" rpy="-0.000000 -0.000000 44.999981" a="45"/>
 	<group name="StaticObj_Misc_Table_Camp" pos="2763.767822 26.400179 1201.692017" rpy="-0.000000 -0.000000 44.999981" a="45"/>
 	<group name="StaticObj_Garbage_Pile2" pos="2753.708008 26.256317 1205.419922" rpy="-0.000000 -0.000000 0.000000" a="90"/>
 	<group name="StaticObj_Dead_pile1" pos="2729.752441 24.647356 1272.947754" rpy="-0.000000 -0.000000 0.000000" a="90"/>
 	<group name="StaticObj_Dead_pile1" pos="2728.758057 24.593973 1275.447876" rpy="-0.000000 -0.000000 0.000000" a="90"/>
-	<group name="Land_Mil_Tent_Big1_1" pos="2577.927002 20.999105 1320.875244" rpy="-2.220853 1.116412 98.818329" a="-8.81833"/>
-	<group name="Land_Mil_Tent_Big1_1" pos="2576.869385 21.479012 1314.640015" rpy="-6.610443 1.044550 98.999962" a="-8.99996"/>
-	<group name="StaticObj_Garbage_Pile2" pos="2574.022705 21.986301 1309.741089" rpy="-0.000000 -0.000000 0.000000" a="90"/>
-    <!-- Standard Buildings Prison Island -->
+	<group name="Land_Container_1Mo" pos="2805.319336 27.209242 1223.957397" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="StaticObj_Mil_CamoNet_Side_nato" pos="2807.975830 28.031149 1208.525513" rpy="0.018845 -0.228411 175.283463" a="-85.2835"/>
+	<group name="Land_Mil_CamoNet_Roof_east" pos="2630.676758 32.547447 1273.718750" rpy="-0.000000 0.000039 -79.309784" a="169.31"/>
+	<group name="StaticObj_Mil_CamoNet_Side_nato" pos="2580.378174 21.285210 1345.203979" rpy="-0.000000 0.000000 -81.089966" a="171.09"/>
+	<group name="Land_Mil_Tent_Big3" pos="2575.967773 22.387831 1315.069458" rpy="0.016305 -4.664455 8.975696" a="81.0243"/>
+	<group name="StaticObj_Dead_pile1" pos="2571.680420 21.324642 1318.443237" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="StaticObj_Dead_pile1" pos="2572.506592 21.617027 1316.053711" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="StaticObj_Dead_pile1" pos="2569.708008 21.636854 1315.536011" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Medical_Tent_Shower" pos="2664.503906 24.978312 1318.444580" rpy="-0.000000 -0.000000 9.000000" a="81"/>
+    
+	<!-- Standard Buildings Prison Island -->
     <group name="Land_Workshop5" pos="2445.642578 5.233922 1368.121704" rpy="-0.000000 0.000000 109.835999" a="-19.836004" />
     <group name="Land_Workshop2" pos="2486.725830 5.272530 1218.125244" rpy="-0.000000 0.000000 -69.356544" a="159.356537" />
     <group name="Land_Container_1Mo" pos="2481.874023 5.060287 1235.575073" rpy="-0.000000 0.000000 -22.044508" a="112.044502" />

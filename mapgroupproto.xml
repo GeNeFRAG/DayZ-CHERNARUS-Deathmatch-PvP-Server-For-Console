@@ -6071,6 +6071,7 @@
     </container>
   </group>
   <group name="Land_Mil_Tent_Big3" lootmax="8">
+    <usage name="DeathMatch" />
     <container name="lootFloor" lootmax="8">
       <tag name="floor" />
       <tag name="shelves" />
@@ -9327,6 +9328,7 @@
     </container>
   </group>
   <group name="Land_Medical_Tent_Shower" lootmax="4">
+    <usage name="DeathMatch" />
     <container name="lootFloor">
       <tag name="floor" />
       <tag name="shelves" />
