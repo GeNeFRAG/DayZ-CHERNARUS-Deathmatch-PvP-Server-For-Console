@@ -18,7 +18,7 @@
      <message>
         <delay>1</delay>
         <onconnect>1</onconnect>
-        <text>Killing LandZ PvPe • EUROPE • EN/GER</text>
+        <text>Killing LandZ PvPe • EUROPE • ENGLISH • GERMAN</text>
     </message>
     <message>
         <delay>1</delay>
@@ -36,7 +36,7 @@
     </message>
     <message>
         <repeat>15</repeat>
-        <text>Killing LandZ PvPe • EUROPE • EN/GER</text>
+        <text>Killing LandZ PvPe • EUROPE • ENGLISH • GERMAN</text>
     </message>
     <message>
         <repeat>15</repeat>
