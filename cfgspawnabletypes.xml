@@ -895,7 +895,8 @@
 			<item name="Ammo_308WinTracer" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="HuntingOptic" />
+			<item name="HuntingOptic" chance="0.5"/>
+			<item name="SportingOptic" chance="0.5"/>
 		</cargo>
 		<cargo chance="1.00">
 			<item name="WaterBottle" />
@@ -927,7 +928,8 @@
 			<item name="Ammo_308WinTracer" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="HuntingOptic" />
+			<item name="HuntingOptic" chance="0.5"/>
+			<item name="SportingOptic" chance="0.5"/>
 		</cargo>
 		<cargo chance="1.00">
 			<item name="BandageDressing" />
@@ -941,7 +943,7 @@
 	</type>
 	<type name="CoyoteBag_Winter">
 		<cargo chance="1.00">
-			<item name="Mp133Shotgun" />
+			<item name="R12" />
 		</cargo>
 		<cargo chance="1.00">
 			<item name="Ammo_12gaPellets" />
@@ -1026,7 +1028,8 @@
 			<item name="Ammo_308WinTracer" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="HuntingOptic" />
+			<item name="HuntingOptic" chance="0.5"/>
+			<item name="SportingOptic" chance="0.5"/>
 		</cargo>
 		<cargo chance="1.00">
 			<item name="Mag_CZ550_10Rnd" />
@@ -1077,7 +1080,8 @@
 			<item name="Scout_Chernarus" chance="0.50" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="ACOGOptic_6x" />
+			<item name="ACOGOptic_6x" chance="0.5" />
+			<item name="MK4Optic_Black" chance="0.5" />
 		</cargo>
 	</type>
 	<!-- Death Match Loot END -->
