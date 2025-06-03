@@ -48,7 +48,7 @@
             "slotName": "shoulderR",
             "discreteItemSets": [
                 {
-                    "itemType": "Winchester70_Green",
+                    "itemType": "Winchester70_Black",
                     "spawnWeight": 1,
                     "attributes": {
                         "healthMin": 1.0,

@@ -130,7 +130,7 @@
                     "simpleChildrenUseDefaultAttributes": false
                 },
                 {
-                    "itemType": "Mosin9130_Black",
+                    "itemType": "Mosin9130_Green",
                     "spawnWeight": 1,
                     "attributes": {
                         "healthMin": 1.0,
@@ -147,6 +147,22 @@
                 },
                 {
                     "itemType": "Mosin9130_Camo",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": 2,
+                    "simpleChildrenTypes": [
+                        "PUScopeOptic",
+                        "ImprovisedSuppressor"
+                    ],
+                    "simpleChildrenUseDefaultAttributes": false
+                },
+                {
+                    "itemType": "Mosin9130",
                     "spawnWeight": 1,
                     "attributes": {
                         "healthMin": 1.0,

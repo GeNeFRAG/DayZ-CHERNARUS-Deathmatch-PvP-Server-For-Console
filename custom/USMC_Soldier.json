@@ -48,7 +48,7 @@
             "slotName": "shoulderR",
             "discreteItemSets": [
                 {
-                    "itemType": "Winchester70_Black",
+                    "itemType": "M14",
                     "spawnWeight": 1,
                     "attributes": {
                         "healthMin": 1.0,
@@ -59,12 +59,12 @@
                     "quickBarSlot": 2,
                     "simpleChildrenTypes": [
                         "ImprovisedSuppressor",
-                        "HuntingOptic"
+                        "ACOGOptic_6x"
                     ],
                     "simpleChildrenUseDefaultAttributes": false
                 },
                 {
-                    "itemType": "Winchester70_Black",
+                    "itemType": "M14",
                     "spawnWeight": 1,
                     "attributes": {
                         "healthMin": 1.0,
@@ -75,7 +75,39 @@
                     "quickBarSlot": 2,
                     "simpleChildrenTypes": [
                         "ImprovisedSuppressor",
-                        "SportingOptic"
+                        "MK4Optic_Black"
+                    ],
+                    "simpleChildrenUseDefaultAttributes": false
+                },
+                {
+                    "itemType": "M14",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": 2,
+                    "simpleChildrenTypes": [
+                        "ImprovisedSuppressor",
+                        "MK4Optic_Green"
+                    ],
+                    "simpleChildrenUseDefaultAttributes": false
+                },
+                {
+                    "itemType": "M14",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": 2,
+                    "simpleChildrenTypes": [
+                        "ImprovisedSuppressor",
+                        "MK4Optic_Tan"
                     ],
                     "simpleChildrenUseDefaultAttributes": false
                 }
