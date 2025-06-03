@@ -111,6 +111,7 @@
 		<cargo chance="1.00">
 			<item name="PSO11Optic" chance="0.50" />
 			<item name="PSO1Optic" chance="0.50" />
+			<item name="PSO6Optic" chance="0.50" />
 		</cargo>
 		<cargo chance="1.00">
 			<item name="Battery9V" />
@@ -134,6 +135,7 @@
 			<item name="KashtanOptic" chance="0.20" />
 			<item name="PSO11Optic" chance="0.20" />
 			<type name="PSO1Optic" chance="0.20" />
+			<type name="PSO6Optic" chance="0.20" />
 		</cargo>
 		<cargo chance="1.00">
 			<item name="Mag_AK74_30Rnd" chance="0.50" />
@@ -172,6 +174,7 @@
 			<item name="KashtanOptic" chance="0.25" />
 			<item name="PSO11Optic" chance="0.25" />
 			<type name="PSO1Optic" chance="0.25" />
+			<type name="PSO6Optic" chance="0.20" />
 		</cargo>
 		<cargo chance="1.00">
 			<item name="AK_Suppressor" />
@@ -222,6 +225,7 @@
 			<item name="KashtanOptic" chance="0.20" />
 			<item name="PSO11Optic" chance="0.20" />
 			<item name="PSO1Optic" chance="0.20" />
+			<type name="PSO6Optic" chance="0.20" />
 		</cargo>
 		<cargo chance="1.00">
 			<item name="BandageDressing" />
@@ -346,7 +350,10 @@
 			<item name="Mag_SV98_10Rnd" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="ACOGOptic_6x" />
+			<item name="ACOGOptic_6x" chance="0.33"/>
+			<item name="MK4Optic_Black" chance="0.33" />
+			<item name="MK4Optic_Green" chance="0.33" />
+			<item name="MK4Optic_Tan" chance="0.33" />
 		</cargo>
 	</type>
 	<type name="DryBag_Red">
@@ -987,7 +994,10 @@
 			<item name="Mag_M14_20Rnd" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="ACOGOptic_6x" />
+			<item name="ACOGOptic_6x" chance="0.33" />
+			<item name="MK4Optic_Black" chance="0.33" />
+			<item name="MK4Optic_Green" chance="0.33" />
+			<item name="MK4Optic_Tan" chance="0.33" />
 		</cargo>
 		<cargo chance="1.00">
 			<item name="BandageDressing" />
@@ -3383,6 +3393,20 @@
 	</type>
 	<!--END OF ZOMBIES  -->
 	<!--  WEAPONS  -->
+	  <type name="PM73Rak">
+		<attachments chance="1.00">
+			<item name="Mag_PM73_15Rnd" chance="0.80" />
+			<item name="Mag_PM73_25Rnd" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="R12">
+		<attachments chance="0.5">
+			<item name="UniversalLight" />
+		</attachments>
+		<attachments chance="0.5">
+			<item name="ReflexOptic" />
+		</attachments>
+	</type>
 	<type name="MakarovIJ70">
 		<attachments chance="1.00">
 			<item name="Mag_IJ70_8Rnd" chance="1.00"/>

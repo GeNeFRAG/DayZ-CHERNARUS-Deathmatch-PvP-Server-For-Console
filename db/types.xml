@@ -10009,6 +10009,39 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <usage name="DontUse"/>
     </type>
+<type name="MK4Optic_Black">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <usage name="DontUse"/>
+    </type>
+<type name="MK4Optic_Green">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <usage name="DontUse"/>
+    </type>
+<type name="MK4Optic_Tan">
+        <nominal>2</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <usage name="DontUse"/>
+    </type>
 <type name="MKII">
         <nominal>0</nominal>
         <lifetime>300</lifetime>
@@ -10445,6 +10478,28 @@
         <min>0</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <usage name="DontUse"/>
+    </type>
+<type name="Mag_PM73_15Rnd">
+        <nominal>22</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>17</min>
+        <quantmin>30</quantmin>
+        <quantmax>80</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <usage name="DontUse"/>
+    </type>
+<type name="Mag_PM73_25Rnd">
+        <nominal>12</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>9</min>
+        <quantmin>30</quantmin>
+        <quantmax>80</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <usage name="DontUse"/>
@@ -11923,6 +11978,17 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <usage name="DontUse"/>
     </type>
+<type name="PM73Rak">
+        <nominal>20</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>16</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <usage name="DontUse"/>
+    </type>
 <type name="PP19">
         <nominal>0</nominal>
         <lifetime>300</lifetime>
@@ -11961,6 +12027,17 @@
         <lifetime>300</lifetime>
         <restock>0</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <usage name="DontUse"/>
+    </type>
+<type name="PSO6Optic">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13052,6 +13129,17 @@
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <usage name="DontUse"/>
+    </type>
+<type name="R12">
+        <nominal>6</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>4</min>
+        <quantmin>10</quantmin>
+        <quantmax>80</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <usage name="DontUse"/>
@@ -15140,6 +15228,17 @@
         <lifetime>300</lifetime>
         <restock>0</restock>
         <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <usage name="DontUse"/>
+    </type>
+<type name="SportingOptic">
+        <nominal>12</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

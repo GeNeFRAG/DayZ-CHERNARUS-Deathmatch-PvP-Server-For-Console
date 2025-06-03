@@ -62,6 +62,22 @@
                         "HuntingOptic"
                     ],
                     "simpleChildrenUseDefaultAttributes": false
+                },
+                {
+                    "itemType": "Winchester70_Black",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": 2,
+                    "simpleChildrenTypes": [
+                        "ImprovisedSuppressor",
+                        "SportingOptic"
+                    ],
+                    "simpleChildrenUseDefaultAttributes": false
                 }
             ]
         },

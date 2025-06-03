@@ -45,6 +45,23 @@
                         "Mag_SV98_10Rnd"
                     ],
                     "simpleChildrenUseDefaultAttributes": false
+                },
+                {
+                    "itemType": "SV98",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": 2,
+                    "simpleChildrenTypes": [
+                        "MK4Optic_Green",
+                        "ImprovisedSuppressor",
+                        "Mag_SV98_10Rnd"
+                    ],
+                    "simpleChildrenUseDefaultAttributes": false
                 }
             ]
         },
