@@ -10,7 +10,7 @@
                 "PosHeight": 55,
                 "NegHeight": 55,
                 "InnerRingCount": 2,
-                "InnerPartDist": 5,
+                "InnerPartDist": 2,
                 "OuterRingToggle": 0,
                 "OuterPartDist": 0,
                 "OuterOffset": 1,
