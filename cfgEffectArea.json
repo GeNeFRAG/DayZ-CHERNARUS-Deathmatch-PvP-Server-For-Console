@@ -3,7 +3,7 @@
 		{
             "AreaName": "Smoke",
             "Type": "ContaminatedArea_Static",
-            "TriggerType": "EventTrigger",
+            "TriggerType": "effecttrigger",
             "Data": {
                 "Pos": [2490.50, 0, 1251.08],
                 "Radius": 8,
