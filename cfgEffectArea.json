@@ -1,29 +1,5 @@
 {
     "Areas": [
-		{
-            "AreaName": "Smoke",
-            "Type": "ContaminatedArea_Static",
-            "TriggerType": "effecttrigger",
-            "Data": {
-                "Pos": [2490.50, 0, 1251.08],
-                "Radius": 3,
-                "PosHeight": 20,
-                "NegHeight": 3,
-                "InnerRingCount": 1,
-                "InnerPartDist": 5,
-                "OuterRingToggle": 1,
-                "OuterPartDist": 10,
-                "OuterOffset": 0,
-                "VerticalLayers": 2,
-                "VerticalOffset": 5,
-                "ParticleName": "graphics/particles/smoke_M18_green_02"
-            },
-            "PlayerData": {
-                "AroundPartName": "",
-                "TinyPartName": "",
-                "PPERequesterType": ""
-            }
-        },
         { 	"AreaName": "Ship-Bow", 
 			"Type": "ContaminatedArea_Static", 
 			"TriggerType": "ContaminatedTrigger",
