@@ -6,9 +6,9 @@
             "TriggerType": "effecttrigger",
             "Data": {
                 "Pos": [2490.50, 0, 1251.08],
-                "Radius": 8,
-                "PosHeight": 55,
-                "NegHeight": 55,
+                "Radius": 100,
+                "PosHeight": 22,
+                "NegHeight": 10,
                 "InnerRingCount": 2,
                 "InnerPartDist": 2,
                 "OuterRingToggle": 0,
