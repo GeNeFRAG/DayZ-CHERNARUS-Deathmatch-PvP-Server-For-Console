@@ -78,7 +78,7 @@
             "slotName": "shoulderR",
             "discreteItemSets": [
                 {
-                    "itemType": "Crossbow_Black",
+                    "itemType": "B95",
                     "spawnWeight": 1,
                     "attributes": {
                         "healthMin": 1.0,
@@ -88,8 +88,7 @@
                     },
                     "quickBarSlot": 2,
                     "simpleChildrenTypes": [
-                        "ACOGOptic_6x",
-                        "Ammo_HuntingBolt"
+                        "SportingOptic"
                     ],
                     "simpleChildrenUseDefaultAttributes": false
                 },
@@ -961,9 +960,6 @@
                 "Mag_AK101_30Rnd",
                 "Mag_AK101_30Rnd_Green",
                 "Mag_AK101_30Rnd_Black",
-                "Ammo_HuntingBolt",
-                "Ammo_HuntingBolt",
-                "Ammo_HuntingBolt",
                 "Ammo_308WinTracer",
                 "Ammo_308WinTracer",
                 "Ammo_308WinTracer",
