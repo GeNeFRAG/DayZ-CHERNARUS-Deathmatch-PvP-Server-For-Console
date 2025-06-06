@@ -5046,6 +5046,12 @@
 		<attachments chance="1.00">
 			<item name="WaterBottle" chance="1.00" />
 		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Screwdriver" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="Hatchback_02_Black">
 		<attachments chance="1.00">
