@@ -9,15 +9,7 @@
 	"PlayerData": {
 		"disablePersonalLight": false,
 		"spawnGearPresetFiles": [
-			"custom/Hunter.json",
-			"custom/Russian_Soldier.json",
-			"custom/Russian_Soldier2.json",
-			"custom/Russian_Soldier2_Winter.json",
-			"custom/USMC_Soldier.json",
-			"custom/Winter_Soldier.json",
-			"custom/Army_Soldier.json",
-			"custom/Police_Orel.json",
-			"custom/Police_West.json"
+			"custom/vanillaplus_loadout.json"
 		],
 		"StaminaData": {
 			"sprintStaminaModifierErc": 0,

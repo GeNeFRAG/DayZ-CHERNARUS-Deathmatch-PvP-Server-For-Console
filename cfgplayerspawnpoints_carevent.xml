@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playerspawnpoints>
     <fresh>
         <spawn_params>
@@ -10,38 +10,30 @@
             <max_dist_static>0</max_dist_static>
         </spawn_params>
         <generator_params>
-            <grid_density>1</grid_density>
-            <!-- total width of grid in metres -->
-            <grid_width>1.0</grid_width>
-            <!-- total height of grid in metres -->
-            <grid_height>1.0</grid_height>
-            <!--  minimum distance from buildings for valid spawn point -->
-            <min_dist_static>0.5</min_dist_static>
-            <!--  maximum distance from buildings used to rate valid spawn point -->
-            <max_dist_static>2.0</max_dist_static>
-            <!-- terrain slope limits for valid spawn point -->
-            <min_steepness>-45</min_steepness>
-            <max_steepness>45</max_steepness>
+            <grid_density>15</grid_density>
+            <grid_width>200</grid_width>
+            <grid_height>200</grid_height>
+            <min_dist_static>0</min_dist_static>
+            <max_dist_static>0</max_dist_static>
+            <min_steepness>-39.999996</min_steepness>
+            <max_steepness>39.999996</max_steepness>
         </generator_params>
         <generator_posbubbles>
-            <pos x="7662.99" z="12796.60" />
-            <pos x="7826.30" z="12789.79" />
-            <pos x="8018.77" z="12831.59" />
-            <pos x="8221.94" z="12805.35" />
-            <pos x="8244.30" z="12677.03" />
-            <pos x="8117.93" z="12609.96" />
-            <pos x="7991.55" z="12482.61" />
-            <pos x="7991.55" z="12482.61" />
-            <pos x="7719.37" z="12529.27" />
-            <pos x="7505.75" z="12650.78" />
-            <pos x="7830.43" z="12409.46" />
-            <pos x="7913.30" z="12634.26" />
-            <pos x="7698.47" z="12614.33" />
-            <pos x="8010.75" z="12647.62" />
-            <pos x="8166.05" z="12722.48" />
-            <pos x="8028.98" z="12755.28" />
-            <pos x="7639.17" z="12626.00" />
-            <pos x="7721.56" z="12631.10" />
+            <pos x="4372.95" z="2299.24" />
+            
+            <pos x="4381.70" z="2283.44" />
+            
+            <pos x="4376.35" z="2269.59" />
+           
+            <pos x="4428.36" z="2277.61" />
+            
+            <pos x="4417.91" z="2264.97" />
+             
+            <pos x="4415.96" z="2287.81" />
+          
+            <pos x="4339.41" z=" 2194.98" />
+            
+            <pos x="4431.76" z="2224.87" />
         </generator_posbubbles>
     </fresh>
     <hop>
