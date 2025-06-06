@@ -1,5 +1,33 @@
 {
     "Areas": [
+		{
+			"AreaName": "single-smoke-plane-crash_Krasno",
+			"Type": "ContaminatedArea_Static",
+			"TriggerType": "effecttrigger",
+			"Data": {
+				"Pos": [
+					4362.46,
+					3.00124,
+					2244.97
+				],
+				"Radius": 3,
+                "PosHeight": 20,
+                "NegHeight": 3,
+                "InnerRingCount": 1,
+                "InnerPartDist": 5,
+                "OuterRingToggle": 1,
+                "OuterPartDist": 10,
+                "OuterOffset": 0,
+                "VerticalLayers": 2,
+                "VerticalOffset": 5,
+				"ParticleName": "graphics/particles/smoke_heli_wreck_01"
+			},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": ""
+			}
+		},
         { 	"AreaName": "Ship-Bow", 
 			"Type": "ContaminatedArea_Static", 
 			"TriggerType": "ContaminatedTrigger",
