@@ -488,40 +488,6 @@
                     "complexChildrenTypes": []
                 }
             ]
-        },
-        {
-            "slotName": "Vest",
-            "discreteItemSets": [
-                {
-                    "itemType": "ChestHolster",
-                    "spawnWeight": 1,
-                    "attributes": {
-                        "healthMin": 1.0,
-                        "healthMax": 1.0,
-                        "quantityMin": 1.0,
-                        "quantityMax": 1.0
-                    },
-                    "quickBarSlot": -1,
-                    "simpleChildrenTypes": [],
-                    "simpleChildrenUseDefaultAttributes": false,
-                    "complexChildrenTypes": [
-                        {
-                            "itemType": "MakarovIJ70",
-                            "attributes": {
-                                "healthMin": 1.0,
-                                "healthMax": 1.0,
-                                "quantityMin": 1.0,
-                                "quantityMax": 1.0
-                            },
-                            "quickBarSlot": 1,
-                            "simpleChildrenTypes": [
-                                "Mag_IJ70_8Rnd"
-                            ],
-                            "simpleChildrenUseDefaultAttributes": false
-                        }
-                    ]
-                }
-            ]
         }
     ],
     "discreteUnsortedItemSets": [
@@ -579,16 +545,6 @@
                 },
                 {
                     "itemType": "Matchbox",
-                    "attributes": {
-                        "healthMin": 1.0,
-                        "healthMax": 1.0,
-                        "quantityMin": 1.0,
-                        "quantityMax": 1.0
-                    },
-                    "quickBarSlot": -1
-                },
-                {
-                    "itemType": "Mag_IJ70_8Rnd",
                     "attributes": {
                         "healthMin": 1.0,
                         "healthMax": 1.0,
@@ -692,16 +648,6 @@
                     "quickBarSlot": -1
                 },
                 {
-                    "itemType": "Mag_IJ70_8Rnd",
-                    "attributes": {
-                        "healthMin": 1.0,
-                        "healthMax": 1.0,
-                        "quantityMin": 1.0,
-                        "quantityMax": 1.0
-                    },
-                    "quickBarSlot": -1
-                },
-                {
                     "itemType": "BandageDressing",
                     "attributes": {
                         "healthMin": 1.0,
@@ -787,16 +733,6 @@
                 },
                 {
                     "itemType": "Matchbox",
-                    "attributes": {
-                        "healthMin": 1.0,
-                        "healthMax": 1.0,
-                        "quantityMin": 1.0,
-                        "quantityMax": 1.0
-                    },
-                    "quickBarSlot": -1
-                },
-                {
-                    "itemType": "Mag_IJ70_8Rnd",
                     "attributes": {
                         "healthMin": 1.0,
                         "healthMax": 1.0,
@@ -900,16 +836,6 @@
                     "quickBarSlot": -1
                 },
                 {
-                    "itemType": "Mag_IJ70_8Rnd",
-                    "attributes": {
-                        "healthMin": 1.0,
-                        "healthMax": 1.0,
-                        "quantityMin": 1.0,
-                        "quantityMax": 1.0
-                    },
-                    "quickBarSlot": -1
-                },
-                {
                     "itemType": "BandageDressing",
                     "attributes": {
                         "healthMin": 1.0,
@@ -995,16 +921,6 @@
                 },
                 {
                     "itemType": "Matchbox",
-                    "attributes": {
-                        "healthMin": 1.0,
-                        "healthMax": 1.0,
-                        "quantityMin": 1.0,
-                        "quantityMax": 1.0
-                    },
-                    "quickBarSlot": -1
-                },
-                {
-                    "itemType": "Mag_IJ70_8Rnd",
                     "attributes": {
                         "healthMin": 1.0,
                         "healthMax": 1.0,
@@ -1108,16 +1024,6 @@
                     "quickBarSlot": -1
                 },
                 {
-                    "itemType": "Mag_IJ70_8Rnd",
-                    "attributes": {
-                        "healthMin": 1.0,
-                        "healthMax": 1.0,
-                        "quantityMin": 1.0,
-                        "quantityMax": 1.0
-                    },
-                    "quickBarSlot": -1
-                },
-                {
                     "itemType": "BandageDressing",
                     "attributes": {
                         "healthMin": 1.0,
@@ -1203,16 +1109,6 @@
                 },
                 {
                     "itemType": "Matchbox",
-                    "attributes": {
-                        "healthMin": 1.0,
-                        "healthMax": 1.0,
-                        "quantityMin": 1.0,
-                        "quantityMax": 1.0
-                    },
-                    "quickBarSlot": -1
-                },
-                {
-                    "itemType": "Mag_IJ70_8Rnd",
                     "attributes": {
                         "healthMin": 1.0,
                         "healthMax": 1.0,
@@ -1316,16 +1212,6 @@
                     "quickBarSlot": -1
                 },
                 {
-                    "itemType": "Mag_IJ70_8Rnd",
-                    "attributes": {
-                        "healthMin": 1.0,
-                        "healthMax": 1.0,
-                        "quantityMin": 1.0,
-                        "quantityMax": 1.0
-                    },
-                    "quickBarSlot": -1
-                },
-                {
                     "itemType": "BandageDressing",
                     "attributes": {
                         "healthMin": 1.0,
@@ -1411,16 +1297,6 @@
                 },
                 {
                     "itemType": "Matchbox",
-                    "attributes": {
-                        "healthMin": 1.0,
-                        "healthMax": 1.0,
-                        "quantityMin": 1.0,
-                        "quantityMax": 1.0
-                    },
-                    "quickBarSlot": -1
-                },
-                {
-                    "itemType": "Mag_IJ70_8Rnd",
                     "attributes": {
                         "healthMin": 1.0,
                         "healthMax": 1.0,
@@ -1524,16 +1400,6 @@
                     "quickBarSlot": -1
                 },
                 {
-                    "itemType": "Mag_IJ70_8Rnd",
-                    "attributes": {
-                        "healthMin": 1.0,
-                        "healthMax": 1.0,
-                        "quantityMin": 1.0,
-                        "quantityMax": 1.0
-                    },
-                    "quickBarSlot": -1
-                },
-                {
                     "itemType": "BandageDressing",
                     "attributes": {
                         "healthMin": 1.0,
@@ -1628,16 +1494,6 @@
                     "quickBarSlot": -1
                 },
                 {
-                    "itemType": "Mag_IJ70_8Rnd",
-                    "attributes": {
-                        "healthMin": 1.0,
-                        "healthMax": 1.0,
-                        "quantityMin": 1.0,
-                        "quantityMax": 1.0
-                    },
-                    "quickBarSlot": -1
-                },
-                {
                     "itemType": "BandageDressing",
                     "attributes": {
                         "healthMin": 1.0,
@@ -1723,16 +1579,6 @@
                 },
                 {
                     "itemType": "Matchbox",
-                    "attributes": {
-                        "healthMin": 1.0,
-                        "healthMax": 1.0,
-                        "quantityMin": 1.0,
-                        "quantityMax": 1.0
-                    },
-                    "quickBarSlot": -1
-                },
-                {
-                    "itemType": "Mag_IJ70_8Rnd",
                     "attributes": {
                         "healthMin": 1.0,
                         "healthMax": 1.0,
