@@ -10,9 +10,9 @@
 					30,
 					1243.06
 				],
-				"Radius": 2,
+				"Radius": 100,
 				"PosHeight": 22,
-				"NegHeight": 0,
+				"NegHeight": 10,
 				"InnerPartDist": 3,
 				"OuterOffset": 0,
 				"ParticleName": "graphics/particles/smoke_heli_wreck_01"
