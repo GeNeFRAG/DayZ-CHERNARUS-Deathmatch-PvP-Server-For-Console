@@ -13,16 +13,13 @@
 				"Radius": 2,
 				"PosHeight": 22,
 				"NegHeight": 10,
-				"InnerRingCount": 1,
 				"InnerPartDist": 3,
-				"OuterRingToggle": 1,
-				"OuterPartDist": 6,
 				"OuterOffset": 0,
 				"ParticleName": "graphics/particles/smoke_heli_wreck_01"
 			},
 			"PlayerData": {
-				"AroundPartName": "graphics/particles/",
-				"TinyPartName": "graphics/particles/",
+				"AroundPartName": "",
+				"TinyPartName": "",
 				"PPERequesterType": ""
 			}
 		},
