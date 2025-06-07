@@ -3,14 +3,14 @@
 		{
 			"AreaName": "SmokeStack1Cherno",
 			"Type": "ContaminatedArea_Static",
-			"TriggerType": "effecttrigger",
+			"TriggerType": "EffectTrigger",
 			"Data": {
 				"Pos": [
 					2487.58,
 					30,
 					1243.06
 				],
-				"Radius": 100,
+				"Radius": 3,
 				"PosHeight": 22,
 				"NegHeight": 10,
 				"InnerPartDist": 3,
