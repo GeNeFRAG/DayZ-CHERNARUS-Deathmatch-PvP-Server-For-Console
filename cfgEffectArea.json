@@ -47,7 +47,7 @@
 			}
 		},
         { 	"AreaName": "Ship-Bow", 
-			"Type": "ContaminatedArea_Static", /
+			"Type": "ContaminatedArea_Static",
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
 				"Pos": [ 13920, 0, 11170 ],
