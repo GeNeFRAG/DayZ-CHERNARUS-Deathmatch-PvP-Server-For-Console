@@ -10,7 +10,7 @@
 					0,
 					1243.06
 				],
-				"Radius": 3,
+				"Radius": 2,
 				"PosHeight": 22,
 				"NegHeight": 10,
 				"InnerPartDist": 3,
@@ -33,7 +33,7 @@
 					0,
 					1331.76
 				],
-				"Radius": 3,
+				"Radius": 2,
 				"PosHeight": 22,
 				"NegHeight": 10,
 				"InnerPartDist": 3,
