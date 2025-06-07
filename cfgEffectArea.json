@@ -7,12 +7,12 @@
 			"Data": {
 				"Pos": [
 					2487.58,
-					0,
+					30,
 					1243.06
 				],
 				"Radius": 2,
 				"PosHeight": 22,
-				"NegHeight": 10,
+				"NegHeight": 0,
 				"InnerPartDist": 3,
 				"OuterOffset": 0,
 				"ParticleName": "graphics/particles/smoke_heli_wreck_01"
