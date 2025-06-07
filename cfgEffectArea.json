@@ -1,5 +1,31 @@
 {
     "Areas": [
+		{
+			"AreaName": "SmokeStack1Cherno",
+			"Type": "ContaminatedArea_Static",
+			"TriggerType": "effecttrigger",
+			"Data": {
+				"Pos": [
+					2487.58,
+					64.48117,
+					1243.06
+				],
+				"Radius": 2,
+				"PosHeight": 22,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 3,
+				"OuterRingToggle": 1,
+				"OuterPartDist": 6,
+				"OuterOffset": 0,
+				"ParticleName": "graphics/particles/smoke_heli_wreck_01"
+			},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/",
+				"TinyPartName": "graphics/particles/",
+				"PPERequesterType": ""
+			}
+		},
         { 	"AreaName": "Ship-Bow", 
 			"Type": "ContaminatedArea_Static", 
 			"TriggerType": "ContaminatedTrigger",
