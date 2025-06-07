@@ -90,6 +90,19 @@
                     "simpleChildrenTypes": [
                         "SportingOptic"
                     ],
+                     "complexChildrenTypes": [
+                        {
+                            "itemType": "Ammo_308WinTracer",
+                            "quickBarSlot": -1,
+                            "attributes": {
+                                "healthMin": 1.0,
+                                "healthMax": 1.0,
+                                "quantityMin": 2.0,
+                                "quantityMax": 2.0
+                            },
+                            "simpleChildrenUseDefaultAttributes": false
+                        }
+                    ],
                     "simpleChildrenUseDefaultAttributes": false
                 },
                 {
@@ -104,6 +117,19 @@
                     "quickBarSlot": 2,
                     "simpleChildrenTypes": [
                         "HuntingOptic"
+                    ],
+                     "complexChildrenTypes": [
+                        {
+                            "itemType": "Ammo_308WinTracer",
+                            "quickBarSlot": -1,
+                            "attributes": {
+                                "healthMin": 1.0,
+                                "healthMax": 1.0,
+                                "quantityMin": 2.0,
+                                "quantityMax": 2.0
+                            },
+                            "simpleChildrenUseDefaultAttributes": false
+                        }
                     ],
                     "simpleChildrenUseDefaultAttributes": false
                 }
