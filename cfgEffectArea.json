@@ -23,8 +23,31 @@
 				"PPERequesterType": ""
 			}
 		},
+		{
+			"AreaName": "SmokeStack2",
+			"Type": "ContaminatedArea_Static",
+			"TriggerType": "EffectTrigger",
+			"Data": {
+				"Pos": [
+					2482.72,
+					30,
+					1331.76
+				],
+				"Radius": 3,
+				"PosHeight": 22,
+				"NegHeight": 10,
+				"InnerPartDist": 3,
+				"OuterOffset": 0,
+				"ParticleName": "graphics/particles/smoke_heli_wreck_01"
+			},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": ""
+			}
+		},
         { 	"AreaName": "Ship-Bow", 
-			"Type": "ContaminatedArea_Static", 
+			"Type": "ContaminatedArea_Static", /
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
 				"Pos": [ 13920, 0, 11170 ],
