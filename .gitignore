@@ -1,4 +1,4 @@
 nitrado_token.txt
 **/*_old.*
-build/*
+build/
 .DS_Store
