@@ -8,17 +8,12 @@
     <message>
         <delay>1</delay>
         <onconnect>1</onconnect>
-        <text>THIS SERVER RESTARTS EVERY 90 MIN</text>
+        <text>THIS SERVER RESTARTS EVERY 120 MIN</text>
     </message>
     <message>
         <delay>1</delay>
         <onconnect>1</onconnect>
         <text>Check out our Discord for Killfeed, Stats and more Servers:</text>
-    </message>
-     <message>
-        <delay>1</delay>
-        <onconnect>1</onconnect>
-        <text>Killing LandZ PvPe • EUROPE • ENGLISH • GERMAN</text>
     </message>
     <message>
         <delay>1</delay>
@@ -36,14 +31,10 @@
     </message>
     <message>
         <repeat>15</repeat>
-        <text>Killing LandZ PvPe • EUROPE • ENGLISH • GERMAN</text>
-    </message>
-    <message>
-        <repeat>15</repeat>
         <text>https://discord.gg/jWsB2XDHqb</text>
     </message>
      <message>
         <repeat>15</repeat>
-        <text>THIS SERVER RESTARTS EVERY 90 MIN</text>
+        <text>THIS SERVER RESTARTS EVERY 120 MIN</text>
     </message>
 </messages>
