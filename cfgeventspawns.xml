@@ -2,8 +2,6 @@
 <eventposdef>
 	<event name="StaticAirStrikeTest">
 		<pos x="2486.61" z="1300.90" />
-		<pos x="2489.52" z="1289.96" />
-		<pos x="2481.26" z="1326.90" />
     </event>
 	<event name="VehicleOffroad02">
 		<pos x="7513.29" z="12659.53" />
