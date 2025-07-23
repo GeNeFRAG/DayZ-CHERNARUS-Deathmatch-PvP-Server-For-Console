@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <events>
     <event name="StaticAirStrikeTest">
-        <nominal>2</nominal>
+        <nominal>3</nominal>
         <min>1</min>
-        <max>2</max>
+        <max>3</max>
         <lifetime>5</lifetime>
-        <restock>10</restock>
+        <restock>300</restock>
         <saferadius>0</saferadius>
         <distanceradius>1</distanceradius>
         <cleanupradius>1</cleanupradius>
@@ -14,7 +14,7 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="2" min="1" type="ExplosionTest" />
+            <child lootmax="0" lootmin="0" max="3" min="1" type="ExplosionTest" />
         </children>
     </event>
     <event name="Vehicle_BalotaCarEvent">
