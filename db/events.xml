@@ -1,22 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <events>
-    <event name="StaticAirStrikeTest">
-        <nominal>1</nominal>
-        <min>1</min>
-        <max>1</max>
-        <lifetime>300</lifetime>
-        <restock>0</restock>
-        <saferadius>0</saferadius>
-        <distanceradius>1</distanceradius>
-        <cleanupradius>1</cleanupradius>
-        <flags deletable="1" init_random="0" remove_damaged="0" />
-        <position>fixed</position>
-        <limit>mixed</limit>
-        <active>1</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="ExplosionTest" />
-        </children>
-    </event>
     <event name="Vehicle_BalotaCarEvent">
         <nominal>14</nominal>
         <min>14</min>

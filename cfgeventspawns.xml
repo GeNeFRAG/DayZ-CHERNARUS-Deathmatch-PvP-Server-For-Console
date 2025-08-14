@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <eventposdef>
-	<event name="StaticAirStrikeTest">
-		<pos x="2486.61" z="1300.90" />
-    </event>
 	<event name="VehicleOffroad02">
 		<pos x="7513.29" z="12659.53" />
 		<pos x="7885.11" z="12783.47" />
