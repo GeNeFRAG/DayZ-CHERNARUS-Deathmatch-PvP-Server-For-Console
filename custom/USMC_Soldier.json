@@ -59,7 +59,8 @@
                     "quickBarSlot": 2,
                     "simpleChildrenTypes": [
                         "ImprovisedSuppressor",
-                        "ACOGOptic_6x"
+                        "ACOGOptic_6x",
+                        "Mag_M14_20Rnd"
                     ],
                     "simpleChildrenUseDefaultAttributes": false
                 },
@@ -75,7 +76,8 @@
                     "quickBarSlot": 2,
                     "simpleChildrenTypes": [
                         "ImprovisedSuppressor",
-                        "MK4Optic_Black"
+                        "MK4Optic_Black",
+                        "Mag_M14_20Rnd"
                     ],
                     "simpleChildrenUseDefaultAttributes": false
                 },
@@ -91,7 +93,8 @@
                     "quickBarSlot": 2,
                     "simpleChildrenTypes": [
                         "ImprovisedSuppressor",
-                        "MK4Optic_Green"
+                        "MK4Optic_Green",
+                        "Mag_M14_20Rnd"
                     ],
                     "simpleChildrenUseDefaultAttributes": false
                 },
@@ -107,7 +110,8 @@
                     "quickBarSlot": 2,
                     "simpleChildrenTypes": [
                         "ImprovisedSuppressor",
-                        "MK4Optic_Tan"
+                        "MK4Optic_Tan",
+                        "Mag_M14_20Rnd"
                     ],
                     "simpleChildrenUseDefaultAttributes": false
                 }
@@ -966,6 +970,9 @@
                 "Mag_STANAG_60Rnd",
                 "Mag_STANAG_60Rnd",
                 "Mag_STANAG_60Rnd",
+                "Mag_M14_20Rnd",
+                "Mag_M14_20Rnd",
+                "Mag_M14_20Rnd",
                 "Mag_FNX45_15Rnd",
                 "Mag_FNX45_15Rnd",
                 "Ammo_308WinTracer",
