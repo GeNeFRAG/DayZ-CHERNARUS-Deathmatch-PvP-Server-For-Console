@@ -118,10 +118,10 @@
         <usage name="DeathMatch"/>
     </type>
     <type name="FurCourierBag">
-        <nominal>10</nominal>
+        <nominal>7</nominal>
         <lifetime>300</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>7</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -195,10 +195,10 @@
         <usage name="DeathMatch"/>
     </type>
     <type name="PlateCarrierVest">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>300</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -206,10 +206,10 @@
         <usage name="DeathMatch"/>
     </type>
     <type name="PlateCarrierVest_Black">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>300</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -217,10 +217,10 @@
         <usage name="DeathMatch"/>
     </type>
     <type name="PlateCarrierVest_Camo">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>300</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -228,10 +228,10 @@
         <usage name="DeathMatch"/>
     </type>
     <type name="PlateCarrierVest_Green">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>300</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -239,10 +239,10 @@
         <usage name="DeathMatch"/>
     </type>
     <type name="PlateCarrierVest_Winter">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>300</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -250,10 +250,10 @@
         <usage name="DeathMatch"/>
     </type>
     <type name="PressVest_Blue">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>300</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -261,10 +261,10 @@
         <usage name="DeathMatch"/>
     </type>
     <type name="PressVest_LightBlue">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>300</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10008,10 +10008,10 @@
         <usage name="DontUse"/>
     </type>
     <type name="MK4Optic_Black">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>300</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10019,10 +10019,10 @@
         <usage name="DontUse"/>
     </type>
     <type name="MK4Optic_Green">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>300</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10030,10 +10030,10 @@
         <usage name="DontUse"/>
     </type>
     <type name="MK4Optic_Tan">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>300</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10481,10 +10481,10 @@
         <usage name="DontUse"/>
     </type>
     <type name="Mag_PM73_15Rnd">
-        <nominal>22</nominal>
+        <nominal>0</nominal>
         <lifetime>300</lifetime>
         <restock>0</restock>
-        <min>17</min>
+        <min>0</min>
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -10492,10 +10492,10 @@
         <usage name="DontUse"/>
     </type>
     <type name="Mag_PM73_25Rnd">
-        <nominal>12</nominal>
+        <nominal>0</nominal>
         <lifetime>300</lifetime>
         <restock>0</restock>
-        <min>9</min>
+        <min>0</min>
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -11977,10 +11977,10 @@
         <usage name="DontUse"/>
     </type>
     <type name="PM73Rak">
-        <nominal>20</nominal>
+        <nominal>0</nominal>
         <lifetime>300</lifetime>
         <restock>0</restock>
-        <min>16</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12032,10 +12032,10 @@
         <usage name="DontUse"/>
     </type>
     <type name="PSO6Optic">
-        <nominal>6</nominal>
+        <nominal>0</nominal>
         <lifetime>300</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13132,10 +13132,10 @@
         <usage name="DontUse"/>
     </type>
     <type name="R12">
-        <nominal>6</nominal>
+        <nominal>0</nominal>
         <lifetime>300</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>0</min>
         <quantmin>10</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -15233,10 +15233,10 @@
         <usage name="DontUse"/>
     </type>
     <type name="SportingOptic">
-        <nominal>12</nominal>
+        <nominal>0</nominal>
         <lifetime>300</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
